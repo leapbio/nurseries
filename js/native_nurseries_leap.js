@@ -470,7 +470,7 @@ var featureLayer = L.mapbox.featureLayer({
         "Sales Con": "mull",
         "General E": "mull",
         "Website": "ekapraly@gmail.com",
-        "Facebook": "http://www.riversidetreesandmums.com",
+        "Facebook": "www.riversidenativetrees.com",
         "State": "mull",
         "": "OH",
         "Address": "2295 River Road Delaware, OH 43015",
@@ -760,39 +760,6 @@ var featureLayer = L.mapbox.featureLayer({
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Genius Loci: Ecological Landscape Design",
-        "Owner_Con": "Craig Limpach",
-        "Contact_Email": "craiglimpach@gmail.com",
-        "Contact_Number": "440-324-3465",
-        "Sales Con": "Craig Limpach",
-        "General E": "craiglimpach@gmail.com",
-        "Website": "mull",
-        "Facebook": "http://www.indigination.com",
-        "State": "Yes",
-        "": "OH",
-        "Address": "1344 Wellington St West, Unit 1 King City, ON",
-        "City": "1344 Wellington St West Unit 1",
-        "Zip": "King City",
-        "Material": "ON",
-        "Notes": "mull",
-        "Keep": "potted woodland plants (herbaceous and woody)",
-        "addrtype": "By appointment only, 100% native and potted in native woodland soil. Specializes in woodland perennials-most are rescues.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5281431,
-          43.9286902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nursery": "Art Form Nurseries",
         "Owner_Con": "Michael Artino",
         "Contact_Email": "mull",
@@ -820,72 +787,6 @@ var featureLayer = L.mapbox.featureLayer({
         "coordinates": [
           -81.338656,
           41.5144836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Land Reformers",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "740-742-3478",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "mull",
-        "Facebook": "mull",
-        "State": "mull",
-        "": "OH",
-        "Address": "35707 Loop Road. Rutland, OH 45775",
-        "City": "35707 Loop Road.",
-        "Zip": "Rutland",
-        "Material": "OH",
-        "Notes": "45775",
-        "Keep": "No information",
-        "addrtype": "mull",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.1460144,
-          39.0881064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Stucker Meadow",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "330-695-2123",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "beam.10@osu.edu",
-        "Facebook": "mull",
-        "State": "mull",
-        "": "OH",
-        "Address": "7851 Twp. Rt. 562 Homesville, OH 44633",
-        "City": "7851 Twp. Rt. 562",
-        "Zip": "Homesville",
-        "Material": "OH",
-        "Notes": "44633",
-        "Keep": "No information",
-        "addrtype": "mull",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.907123,
-          40.4172871
         ]
       }
     },
