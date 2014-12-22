@@ -7,8 +7,8 @@ var southWest = L.latLng(33.064, -99.053),
 var map = L.mapbox.map('map', 'examples.map-i86nkdio', {
     maxBounds: bounds,
 	maxZoom: 16,
-	minZoom: 7
-	}).setView([40, -81], 7);
+	minZoom: 6
+	}).setView([40, -81], 6);
 
 var featureLayer = L.mapbox.featureLayer({
   "type": "FeatureCollection",
