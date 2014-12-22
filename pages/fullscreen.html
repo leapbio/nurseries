@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Nursery Map</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.css' rel='stylesheet' />
+<link href="../css/style.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Source+Serif+Pro:600' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="../favicon.ico" />
+</head>
+<body>
+
+<div id="page-header">
+	<a href="http://www.clevelandmetroparks.com/Main/Home.aspx" target="_blank"><img id="cm-image" src="../images/cm_logo.svg"></a>
+	<div id="page-title"><h1>Native Plant Nurseries</h1></div>
+	<a href="http://www.leapbio.org/" target="_blank"><img id="leap-image" src="../images/leap_logo.jpg"></a>
+</div>
+	<div id="legend">
+		<span></span>
+		<label>LEAP Boundary</label>
+	</div>
+	
+	<!--<nav class='menu-ui'>
+	  <a href='#' class='active' data-filter='all'>Show all</a>
+	  <a href='#' data-filter='Wholesale'>Wholesale</a>
+	  <a href='#' data-filter='Retail'>Retail</a>
+	  <a href='#' data-filter='LEAP'>LEAP</a>
+	  <a href='#' data-filter='NoLEAP'>Outside LEAP</a>
+	  <a href='#' data-filter='Online'>Online Only</a>
+	  <a href='#' data-filter='Appointment'>Appointment Only</a>
+	</nav>-->
+	
+	<div id='map'></div>
+
+<script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+<script src="../js/native_nurseries_leap.js"></script>
+
+
+</body>
+</html>

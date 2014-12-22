@@ -1,4 +1,6 @@
 nurseries
 =========
 
-hosting for native plant nurseries website
+Hosting for the native plant nursery map.
+
+http://cleveland-metroparks.github.io/nurseries/

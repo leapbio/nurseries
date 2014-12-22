@@ -1,0 +1,102 @@
+<!doctype html>
+<head>
+<meta charset=utf-8 />
+<title>Nursery Map</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>
+<link href='css/mapbox.css' rel='stylesheet' />
+<link href="css/styles.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Source+Serif+Pro:600' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
+<link rel="shortcut icon" href="favicon.ico" />
+</head>
+
+
+<body>
+
+<div id="container">
+<div id='cssmenu'>
+<ul>
+   <li><a href='#'><span>Home</span></a></li>
+   <li><a href='pages/plants.html'><span>Plants</span></a>
+   <li><img id="title-image" src="images/header.png"></li>
+   
+   <li><a href='pages/contact.html'><span>Contact</span></a></li>
+   <li class='last'><a href='pages/more.html'><span>More</span></a></li>
+</ul>
+</div>
+
+
+
+
+    <div id="body">
+	
+		<section id="information">
+		<div id="cm-logo"><a href="http://www.clevelandmetroparks.com/Main/Home.aspx" target="_blank"><img style="" src="images/CM_HOR_colorRGB.png" /></a></div>
+		<div id="leap-logo"><a href="http://www.leapbio.org/" target="_blank"><img style="" src="images/leap_logo_small.jpg" /></a></div>
+			<div id="header-image" class="slick-slider">
+				<div><img src="images/place_holder1.jpg" /><p class="photo-credits">Foamflower <i>(Tiarella cordifolia)</i></p></div>
+				<div><img src="images/place_holder2.jpg" /><p class="photo-credits">Black Gum <i>(Nyssa sylvatica)</i></p></div>
+				<div><img src="images/cardinal_flower.jpg" /><p class="photo-credits">Cardinal Flower <i>(Lobelia cardinalis)</i></p></div>				
+			</div>
+
+			
+			<table id="main-table">
+				<tr>
+					<td><img src="images/leap_logo1.jpg" style=></td>
+					<td><img src="images/sourgum3.jpg" style=></td>
+					<td><img src="images/nursery_building1.jpg" style=></td>
+				</tr>
+				<tr>
+					<td><h5>What is LEAP?</h5></td>
+					<td><h5>LEAP Plants of the Year</h5></td>
+					<td><h5>Native Plant Nurseries List</h5></td>
+				</tr>
+				<tr>
+					<td><p>The Lake Erie Allegheny Partnership strives to protect regional biodiversity.</br><a href="http://www.leapbio.org/" target="_blank">Visit LEAP's website</a></p></td>
+					<td><p>Each year LEAP chooses three plants native to the region to highlight.</br><a href="pages/plants.html">See this year's choices.</a></p></td>
+					<td><p>See a list of the native plant nurseries in and around the LEAP region or view the map below.</br><a href="downloads/native_nursery_info.xlsx">Download list</a></p></td>
+				</tr>
+			</table>
+			
+			
+			
+			<h3 id="first-h3">Native Plant Nurseries Map</h3>
+			
+			
+			<div id='map'></div>
+			<p style="margin:5px 0px 0px 10px;"><a href="pages/fullscreen.html" target="_blank">full screen</a></p>
+			<div id="legend">
+				<span></span>
+				<label>LEAP Boundary</label>
+			</div>
+
+	    <article>
+				
+
+		
+		</article>
+	
+		<article class="expanded">
+
+
+		</article>
+        </section>
+    </div>
+    <footer>
+        <div class="footer-bottom">
+            <p>2014 Cleveland Metroparks | 4101 Fulton Parkway, Cleveland, Ohio 44144</p>
+         </div>
+    </footer>
+</div>
+
+    <!-- jQuery Version 1.11.0 -->
+<script src="js/jquery-1.11.0.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<script src="js/native_nurseries_leap.js"></script>
+<script src="js/slick_slider.js"></script>
+<script type="text/javascript" src="slick/slick/slick.min.js"></script>
+
+</body>
+</html>
