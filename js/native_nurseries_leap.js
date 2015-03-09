@@ -10,7 +10,7 @@ var map = L.mapbox.map('map', 'examples.map-i86nkdio', {
 	minZoom: 5
 	}).setView([40, -81], 5);
 
-var featureLayer = L.mapbox.featureLayer({
+var geoJson = ({
   "type": "FeatureCollection",
   "crs": {
     "type": "name",
@@ -1484,31 +1484,20 @@ var featureLayer = L.mapbox.featureLayer({
       }
 	}  
   ]
-  }).addTo(map);
+  })
+  
 
 
-
-// Makes the menus work
-$('.menu-ui a').on('click', function() {
-    // For each filter link, get the 'data-filter' attribute value.
-    var filter = $(this).data('filter');
-    $(this).addClass('active').siblings().removeClass('active');
-    featureLayer.setFilter(function(f) {
-        // If the data-filter attribute is set to "all", return
-        // all (true). Otherwise, filter on markers that have
-        // a value set to true based on the filter name.
-        return (filter === 'all') ? true : f.properties[filter] === true;
-    });
-    return false;
-});
-
-
-
-
+var markers = L.mapbox.featureLayer()
+    .setGeoJSON(geoJson)
+    .addTo(map);
+ 
+  
+ 
 // Note that calling `.eachLayer` here depends on setting GeoJSON _directly_
 // above. If you're loading GeoJSON asynchronously, like from CSV or from a file,
 // you will need to do this within a `featureLayer.on('ready'` event.
-featureLayer.eachLayer(function(layer) {
+markers.eachLayer(function(layer) {
 
     // here you call `bindPopup` with a string of HTML you create - the feature
     // properties declared above are available under `layer.feature.properties`
@@ -1526,6 +1515,18 @@ featureLayer.eachLayer(function(layer) {
 });
 
 
+   $('.menu-ui a').on('click', function() {
+    // For each filter link, get the 'data-filter' attribute value.
+    var filter = $(this).data('filter');
+    $(this).addClass('active').siblings().removeClass('active');
+    markers.setFilter(function(f) {
+        // If the data-filter attribute is set to "all", return
+        // all (true). Otherwise, filter on markers that have
+        // a value set to true based on the filter name.
+        return (filter === 'all') ? true : f.properties[filter] === true;
+    });
+    return false;
+});
 
 
 // Create array of lat,lon points.
