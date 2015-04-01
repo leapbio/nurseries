@@ -3,4 +3,4 @@ nurseries
 
 Hosting for the native plant nursery map.
 
-http://cleveland-metroparks.github.io/nurseries/
+http://leapbio.github.io/nurseries/
