@@ -1,4 +1,4 @@
-L.mapbox.accessToken = 'pk.eyJ1IjoiY2xldmVsYW5kLW1ldHJvcGFya3MiLCJhIjoiWHRKaDhuRSJ9.FGqNSOHwiCr2dmTH2JTMAA';
+L.mapbox.accessToken = 'pk.eyJ1IjoiY21pbnZhc2l2ZXBsYW50cyIsImEiOiJmdGpSeF9jIn0.G_WIbBv2lsun6xHHXgIH8g';
 
 var southWest = L.latLng(33.064, -99.053),
     northEast = L.latLng(50.679, -69.697),
