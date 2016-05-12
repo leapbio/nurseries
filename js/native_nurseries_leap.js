@@ -22,33 +22,58 @@ var geoJson = ({
     {
       "type": "Feature",
       "properties": {
+        "Nursery": "Cardno Native Plant Nursery",
+        "Contact_Email": "mull",
+        "Contact_Number": "574.586.2412",
+        "State": "IN",
+        "Address": "128 Sunset Dr Walkerton, IN 46574",
+        "Street": "128 Sunset Dr",
+        "City": "Walkerton",
+        "State_1": "IN",
+        "Zip": 46574,
+        "Keep": "Seeds, bare root, plugs, and gallons. Trees, vines, ferns, forbs, and grasses. Wetland and prarie seed mixes",
+        "Type": "Wholesale only.  Walk-ins by appointment or schedule a tour.",
+        "Latitude": 41.458327,
+        "Longitude": -86.494062,
+        "Owner_Con": "mull",
+        "Sales_Con": "mull",
+        "General E": "mull",
+        "Facebook": "nurserysales@cardno.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.494062,
+          41.458327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nursery": "Gilson Gardens",
-        "Owner_Con": "Mark Gilson",
         "Contact_Email": "mark@gilsongardens.biz",
         "Contact_Number": "(440) 259-4845",
-        "Sales Con": "Annette Howard",
-        "General E": "annette@gilsongardens.biz",
-        "Website": "sales@gilsongardens.biz",
-        "Facebook": "http://www.gilsongardens.biz",
-        "State": "mull",
-        "": "OH",
+        "State": "OH",
         "Address": "3059 N Ridge Rd. Perry, OH 44081",
-        "City": "3059 N Ridge Rd.",
-        "Zip": "Perry",
-        "Material": "OH",
-        "Notes": "44081",
+        "Street": "3059 N Ridge Rd.",
+        "City": "Perry",
+        "State_1": "OH",
+        "Zip": 44081,
         "Keep": "Ground covers, Perennials, Shrubs, Grasses, Vines and Natives",
-        "addrtype": "Wholesale and retail",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden',
-		"Wholesale":true,
-		"Retail":true,
-		"LEAP":true,
-		"NoLEAP":false,
-		"Online":false,
-		"Appointment":false
+        "Type": "Wholesale and retail",
+        "Latitude": 41.771242,
+        "Longitude": -81.172937,
+        "Owner_Con": "Mark Gilson",
+        "Sales_Con": "Annette Howard",
+        "General E": "annette@gilsongardens.biz",
+        "Facebook": "sales@gilsongardens.biz",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
@@ -61,435 +86,64 @@ var geoJson = ({
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Klyn Nurseries",
-        "Owner_Con": "Bill Hendricks",
-        "Contact_Email": "mull",
-        "Contact_Number": "1-800-860-8104",
-        "Sales Con": "Kevin Czajka",
-        "General E": "kczajka@klynnurseries.com",
-        "Website": "klyn@KlynNurseries.com",
-        "Facebook": "http://www.klynnurseries.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "3322 S. Ridge Rd. Perry, OH 44081",
-        "City": "3322 S. Ridge Rd.",
-        "Zip": "Perry",
-        "Material": "OH",
-        "Notes": "44081",
-        "Keep": "grasses, perennials, ferns, vines, roses (shrub and climbing), dwarf conifers, shade and ornamental trees",
-        "addrtype": "WHOLESALE ONLY",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden',
-		"Wholesale":true,
-		"Retail":false,
-		"LEAP":true,
-		"NoLEAP":false,
-		"Online":false,
-		"Appointment":false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.16448,
-          41.737253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nursery": "Naturally Native",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
+        "Contact_Email": "nnn@naturallynative.net",
         "Contact_Number": "(419) 833-2020",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "nnn@naturallynative.net",
-        "Facebook": "http://www.naturallynative.net",
-        "State": "mull",
-        "": "OH",
+        "State": "OH",
         "Address": "13737 St. Rt. 582, Bowling Green, OH 43402",
-        "City": "13737 St. Rt. 582",
-        "Zip": "Bowling Green",
-        "Material": "OH",
-        "Notes": "43402",
+        "Street": "13737 St. Rt. 582 (Middleton Pike)",
+        "City": "Bowling Green",
+        "State_1": "OH",
+        "Zip": 43402,
         "Keep": "forbs, ferns, grass/sedges, trees, shrubs",
-        "addrtype": "Have an online store",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Type": "Order via email or call (419) 833-2020 or visit!",
+        "Latitude": 41.458175,
+        "Longitude": -83.633875,
+        "Owner_Con": "Jan Hunter",
+        "Sales_Con": "Jan Hunter",
+        "General E": "nnn@naturallynative.net",
+        "Facebook": "nnn@naturallynative.net",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.6513229,
-          41.3747744
+          -83.633875,
+          41.458175
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Envirotech Consultants/ Nursery",
+        "Nursery": "Cold Stream Farm",
+        "Contact_Email": "mull",
+        "Contact_Number": "(231) 464-5809",
+        "State": "MI",
+        "Address": "8585 N. Stephens Rd. Free Soil, MI 49411",
+        "Street": "8585 N. Stephens Rd.",
+        "City": "Free Soil",
+        "State_1": "MI",
+        "Zip": 49411,
+        "Keep": "bare root trees and shrubs",
+        "Type": "Wholesale and retail. Order online, via phone, or mail orderform",
+        "Latitude": 44.109779,
+        "Longitude": -86.200611,
         "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "740.743.1669",
-        "Sales Con": "mull",
+        "Sales_Con": "mull",
         "General E": "mull",
-        "Website": "info@envirotechcon.com",
-        "Facebook": "http://www.envirotechcon.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "5380 Township, 143 NE, Somerset, OH 43783",
-        "City": "5380 Township 143 NE",
-        "Zip": "Somerset",
-        "Material": "OH",
-        "Notes": "43783",
-        "Keep": "wetland obligates; trees",
-        "addrtype": "WHOLESALE ONLY",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Facebook": "info@coldstreamfarm.net",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.2970941,
-          39.8070121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Nodding Onion Gardens – Native Plant Nursery",
-        "Owner_Con": "Beth and Marty Coyne",
-        "Contact_Email": "mull",
-        "Contact_Number": "none listed",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "noddingoniongardens@gmail.com",
-        "Facebook": "http://www.noddingoniongardens.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "Columbia Station, OH 44028",
-        "City": "mull",
-        "Zip": "Columbia Station",
-        "Material": "OH",
-        "Notes": "44028",
-        "Keep": "Perennials native to Ohio",
-        "addrtype": "NOT OPEN TO PUBLIC; ORDER VIA WEB/FROSTVILLE FARMER'S MARKET",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.9609822,
-          41.3185562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Bluestone Perennials",
-        "Owner_Con": "Bill Boonstra",
-        "Contact_Email": "mull",
-        "Contact_Number": "(800) 852-5243",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "loiss@bluestoneperennials.com>",
-        "Facebook": "http://www.bluestoneperennials.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "7211 Middle Ridge Rd. Madison, OH 44057",
-        "City": "7211 Middle Ridge Rd.",
-        "Zip": "Madison",
-        "Material": "OH",
-        "Notes": "44057",
-        "Keep": "Perennials, shrubs, grasses",
-        "addrtype": "Order online, via catalog, or at the garden center",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.0289109,
-          41.789586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Scioto Gardens Landscape Nursery",
-        "Owner_Con": "Michael Johnson",
-        "Contact_Email": "mull",
-        "Contact_Number": "740.363.8264",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "sales@sciotogardens.com",
-        "Facebook": "http://www.sciotogardens.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "3351 S.R. 37 W. - Delaware, OH 43015",
-        "City": "3351 S.R. 37 W.",
-        "Zip": "Delaware",
-        "Material": "OH",
-        "Notes": "43015",
-        "Keep": "perennials, ferns, grasses, shrubs",
-        "addrtype": "Nursery open to public. Plant list available online.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.133668,
-          40.317897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Ohio Prairie Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "866-569-3380",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "info@ohioprairienursery.com",
-        "Facebook": "http://ohioprairienursery.com/",
-        "State": "mull",
-        "": "OH",
-        "Address": "11961 Alpha Rd, Hiram, OH 44234",
-        "City": "11961 Alpha Rd",
-        "Zip": "Hiram",
-        "Material": "OH",
-        "Notes": "44234",
-        "Keep": "seeds (grasses, rushes, forbs)",
-        "addrtype": "ORDERS TAKEN BY PHONE/ WEB ONLY",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.161641,
-          41.319013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Quailcrest Farm (ornamental nursery)",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "330-345-6722",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "qcrest@bright.net",
-        "Facebook": "http://www.quailcrest.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "2810 Armstrong Rd.Wooster, Oh 44691",
-        "City": "2810 Armstrong Rd.",
-        "Zip": "Wooster",
-        "Material": "Oh",
-        "Notes": "44691",
-        "Keep": "forbs, perennials, trees",
-        "addrtype": "Open to public",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.991655,
-          40.8977379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Aullwood Audubon Center",
-        "Owner_Con": "Charity Krueger",
-        "Contact_Email": "mull",
-        "Contact_Number": "937.890.7360",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "aullwood@gemail.com",
-        "Facebook": "http://aullwood.center.audubon.org/",
-        "State": "mull",
-        "": "OH",
-        "Address": "1000 Aullwood Road Dayton, OH 45414",
-        "City": "1000 Aullwood Road",
-        "Zip": "Dayton",
-        "Material": "OH",
-        "Notes": "45414",
-        "Keep": "forbs",
-        "addrtype": "mull",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.274109,
-          39.876157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Avalon Gardens",
-        "Owner_Con": "Mary Slingluff",
-        "Contact_Email": "mull",
-        "Contact_Number": "440.286.2126",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "mull",
-        "Facebook": "http://www.avalongardensinn.com/",
-        "State": "mull",
-        "": "OH",
-        "Address": "12511 Fowlers Mill Rd. Chardon, OH 44024",
-        "City": "12511 Fowlers Mill Rd.",
-        "Zip": "Chardon",
-        "Material": "OH",
-        "Notes": "44024",
-        "Keep": "perennials, shrubs, trees, grasses",
-        "addrtype": "Email is listed only under bed and breakfast, but it matches the owner's name (mslingluff@roadrunner.com). Website has a plant inventory pdf with pricing information.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.255323,
-          41.5286479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Keystone Flora",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "513.961.2727",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "nativeplants@keystoneflora.com",
-        "Facebook": "http://www.keystoneflora.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "5081 Woodenshoe Hollow Lane Cincinnati, OH 45232",
-        "City": "5081 Woodenshoe Hollow Lane",
-        "Zip": "Cincinnati",
-        "Material": "OH",
-        "Notes": "45232",
-        "Keep": "forbs, grasses, vines, shrubs, trees native to Ohio, Kentucky, Indiana",
-        "addrtype": "Meet by appointment, call or email. Plant lists available on website.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.5120196,
-          39.1031182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Porterbrook Native Plants",
-        "Owner_Con": "Dr. Frank Porter",
-        "Contact_Email": "mull",
-        "Contact_Number": "740.247.4565",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "porterbrooknative@yahoo.com",
-        "Facebook": "http://www.porterbrooknativeplants.com/",
-        "State": "mull",
-        "": "OH",
-        "Address": "49607 St. Rt. 124 Racine, OH 45771",
-        "City": "49607 St. Rt. 124",
-        "Zip": "Racine",
-        "Material": "OH",
-        "Notes": "45771",
-        "Keep": "forbs (rock garden specialties)",
-        "addrtype": "Visits by appointment only. Email for plant list.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.9143031,
-          38.9711908
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Riverside Nursery",
-        "Owner_Con": "Ed Kapraly",
-        "Contact_Email": "ekapraly@gmail.com",
-        "Contact_Number": "740.815.3230",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "ekapraly@gmail.com",
-        "Facebook": "www.riversidenativetrees.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "2295 River Road Delaware, OH 43015",
-        "City": "2295 River Road",
-        "Zip": "Delaware",
-        "Material": "OH",
-        "Notes": "43015",
-        "Keep": "trees",
-        "addrtype": "WHOLESALE ONLY; OPEN TO PUBLIC BY APPOINTMENT ONLY",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.1797497,
-          40.3569931
+          -86.200611,
+          44.109779
         ]
       }
     },
@@ -497,31 +151,30 @@ var geoJson = ({
       "type": "Feature",
       "properties": {
         "Nursery": "Companion Plants, Inc.",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
+        "Contact_Email": "peter@companionplants.com",
         "Contact_Number": "740-592-4643",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "sales@companionplants.com",
-        "Facebook": "http://www.companionplants.com",
-        "State": "mull",
-        "": "OH",
+        "State": "OH",
         "Address": "7247 N. Coolville Ridge Rd., Athens, OH 45701",
-        "City": "7247 N. Coolville Ridge Rd.",
-        "Zip": "Athens",
-        "Material": "OH",
-        "Notes": "45701",
+        "Street": "7247 N. Coolville Ridge Rd.",
+        "City": "Athens",
+        "State_1": "OH",
+        "Zip": 45701,
         "Keep": "forbs, seeds",
-        "addrtype": "Shop online or visit. Open to public March-October, by appointment otherwise.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Type": "Shop online or visit. Open to public March-October, by appointment otherwise.",
+        "Latitude": 39.29928,
+        "Longitude": -82.039099,
+        "Owner_Con": "Peter Borchard",
+        "Sales_Con": "mull",
+        "General E": "mull",
+        "Facebook": "sales@companionplants.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.0390989,
+          -82.039099,
           39.29928
         ]
       }
@@ -529,429 +182,64 @@ var geoJson = ({
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Mary's Plant Farm",
-        "Owner_Con": "Mary Harrison",
+        "Nursery": "Keystone Flora",
         "Contact_Email": "mull",
-        "Contact_Number": "513-894-0022",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "marysplantfarm@zoomtown.com",
-        "Facebook": "http://marysplantfarm.com/",
-        "State": "mull",
-        "": "OH",
-        "Address": "2410 Lanes Mill Rd., Hamilton, OH 45013",
-        "City": "2410 Lanes Mill Rd.",
-        "Zip": "Hamilton",
-        "Material": "OH",
-        "Notes": "45013",
-        "Keep": "forbs, ferns, trees",
-        "addrtype": "Open to public. Order over the phone, by mail, fax, or email. Catalog available website. Shipping charges vary based on order cost.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.682413,
-          39.449644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Acorn Farms",
-        "Owner_Con": "Jerry Fultz",
-        "Contact_Email": "JerryF@acornfarms.com",
-        "Contact_Number": "614-891-9348",
-        "Sales Con": "Mike Epp",
-        "General E": "mikeepp@mindspring.com",
-        "Website": "acornfarms@acornfarms.com",
-        "Facebook": "http://www.acornfarms.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "7679 Worthington Rd Galena, OH 43021",
-        "City": "7679 Worthington Rd",
-        "Zip": "Galena",
-        "Material": "OH",
-        "Notes": "43021",
-        "Keep": "trees",
-        "addrtype": "FOR WHOLESALE ONLY. Not Open to the General Public",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.9527841,
-          40.1504685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Greenfield Farms",
-        "Owner_Con": "Dave Maile",
-        "Contact_Email": "mull",
-        "Contact_Number": "(513) 624-8876",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "retail.anderson@greenfieldplantfarm.com",
-        "Facebook": "http://www.greenfieldplantfarm.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "6840 Clough Pike Cincinnati, OH 45244",
-        "City": "6840 Clough Pike",
-        "Zip": "Cincinnati",
-        "Material": "OH",
-        "Notes": "45244",
-        "Keep": "annuals, perennials, trees, shrubs",
-        "addrtype": "Wholesale and retail. They have a store in Cincinnati and a store in Maineville. The information provided is for the Cincinnati store. They also have a wholesale phone number (Jennifer- (513) 479-2790) and email address (wholesale@greenfieldplantfarm.com",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3675709,
-          39.0956359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Natives in Harmony",
-        "Owner_Con": "Gail Martin",
-        "Contact_Email": "mull",
-        "Contact_Number": "419-688-9800",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "gale@nativesinharmony.com",
-        "Facebook": "http://www.nativesinharmony.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "4652 Township Road 179 Marengo, OH 43334",
-        "City": "4652 Township Road 179",
-        "Zip": "Marengo",
-        "Material": "OH",
-        "Notes": "43334",
-        "Keep": "forbs (specializing in state listed species)",
-        "addrtype": "Do not provide mail order plants. Plant list available of website for reference.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.79277,
-          40.441033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Gardenscapes by Joanna",
-        "Owner_Con": "Joanna Thomas",
-        "Contact_Email": "mull",
-        "Contact_Number": "(440) 935-5074",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "gardenscapesbyjoanna@yahoo.com",
-        "Facebook": "http://www.gardenscapesbyjoanna.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "15365 Gifford Road Oberlin, OH 44074",
-        "City": "15365 Gifford Road",
-        "Zip": "Oberlin",
-        "Material": "OH",
-        "Notes": "44074",
-        "Keep": "perennials, trees, shrubs",
-        "addrtype": "Retail. Nursery is open by appointment only.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2887159,
-          41.260074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Sunleaf Nursery",
-        "Owner_Con": "Robert Lyons",
-        "Contact_Email": "bob@sunleaf.com",
-        "Contact_Number": "440-428-4108",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "mull",
-        "Facebook": "http://www.sunleaf.com",
-        "State": "mull",
-        "": "OH",
-        "Address": "5900 North Ridge Rd., Madison OH 44057",
-        "City": "5900 North Ridge Rd.",
-        "Zip": "Madison",
-        "Material": "OH",
-        "Notes": "44057",
-        "Keep": "trees",
-        "addrtype": "Wholesale only. Closing Fall 2014.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.0781181,
-          41.7981779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Native Roots, Inc.",
-        "Owner_Con": "Sonia Bingham",
-        "Contact_Email": "sonia.bingham@nativeroots.com",
-        "Contact_Number": "330-704-5735",
-        "Sales Con": "Sonia Bingham",
-        "General E": "sonia.bingham@nativeroots.com",
-        "Website": "mull",
-        "Facebook": "none currently",
-        "State": "mull",
-        "": "OH",
-        "Address": "3576 Five Oaks Drive, Richfield, OH 44286",
-        "City": "3576 Five Oaks Drive",
-        "Zip": "Richfield",
-        "Material": "OH",
-        "Notes": "44286",
-        "Keep": "mull",
-        "addrtype": "homeowner and restoration practitioners. specialize in wetlands and floodplains.  Grows material from seed",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6381785,
-          41.2397772
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Art Form Nurseries",
-        "Owner_Con": "Michael Artino",
-        "Contact_Email": "mull",
-        "Contact_Number": "(440) 338-8100",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "info@artformnurseries.com",
-        "Facebook": "http://www.artformnurseries.com/",
-        "State": "mull",
-        "": "OH",
-        "Address": "15656 Chillicothe Rd, Chagrin Falls, OH 44022",
-        "City": "15656 Chillicothe Rd",
-        "Zip": "Chagrin Falls",
-        "Material": "OH",
-        "Notes": "44022",
-        "Keep": "perenials, ferns, grasses, and herbs in 3\" or 1 gallon pots\"",
-        "addrtype": "Wholesale",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.338656,
-          41.5144836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Musser",
+        "Contact_Number": "513.961.2727",
+        "State": "OH",
+        "Address": "5081 Woodenshoe Hollow Lane Cincinnati, OH 45232",
+        "Street": "5081 Woodenshoe Hollow Lane",
+        "City": "Cincinnati",
+        "State_1": "OH",
+        "Zip": 45232,
+        "Keep": "forbs, grasses, vines, shrubs, trees native to Ohio, Kentucky, Indiana",
+        "Type": "Meet by appointment, call or email. Open Sat. & Tues. 10-3:00. Plant lists available on website.",
+        "Latitude": 39.182233,
+        "Longitude": -84.516005,
         "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "800-643-8319",
-        "Sales Con": "mull",
+        "Sales_Con": "mull",
         "General E": "mull",
-        "Website": "sales@musserforests.com",
-        "Facebook": "http://www.musserforests.com",
-        "State": "mull",
-        "": "PA",
-        "Address": "1880 Route 119 HWY N Indiana, PA 15701",
-        "City": "1880 Route 119 HWY N",
-        "Zip": "Indiana",
-        "Material": "PA",
-        "Notes": "15701",
-        "Keep": "bare root trees, shrubs",
-        "addrtype": "Order online, in person or via catalog. Their shipping rate is a flat 20% of the order total with a $9.50 min.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Facebook": "nativeplants@keystoneflora.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.133571,
-          40.6438909
+          -84.516005,
+          39.182233
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Habitats Native Plant Nursery LLC",
-        "Owner_Con": "Barry Dalton",
-        "Contact_Email": "barry@habitatsnursery.org",
-        "Contact_Number": "859-442-9414",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "native@habitatsnursery.org",
-        "Facebook": "http://www.habitatsnursery.org",
-        "State": "mull",
-        "": "KY",
-        "Address": "PO Box 625 Silver Grove KY 41085",
-        "City": "PO Box 625",
-        "Zip": "Silver Grove",
-        "Material": "KY",
-        "Notes": "41085",
-        "Keep": "seeds, bare root trees",
-        "addrtype": "WHOLESALE ONLY. Minimum order $250",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3902174,
-          39.0345062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Prairie Moon Nursery",
-        "Owner_Con": "mull",
+        "Nursery": "Nodding Onion Gardens Native Plant Nursery",
         "Contact_Email": "mull",
-        "Contact_Number": "(866) 417-8156",
-        "Sales Con": "mull",
+        "Contact_Number": "none listed",
+        "State": "OH",
+        "Address": "Columbia Station, OH 44028",
+        "Street": "mull",
+        "City": "Columbia Station",
+        "State_1": "OH",
+        "Zip": 44028,
+        "Keep": "Perennials native to Ohio",
+        "Type": "NOT OPEN TO PUBLIC; ORDER VIA WEB/FROSTVILLE FARMER'S MARKET",
+        "Latitude": 41.312327,
+        "Longitude": -81.947088,
+        "Owner_Con": "Beth and Marty Coyne",
+        "Sales_Con": "mull",
         "General E": "mull",
-        "Website": "info@prairiemoon.com",
-        "Facebook": "http://www.prairiemoon.com/",
-        "State": "mull",
-        "": "MN",
-        "Address": "32115 Prairie Lane Winona, MN 55987",
-        "City": "32115 Prairie Lane",
-        "Zip": "Winona",
-        "Material": "MN",
-        "Notes": "55987",
-        "Keep": "Seeds, seed mixes, bare root plants, potted plants native to the upper midwest of the country",
-        "addrtype": "Mail order nursery. Order online, by mail, or via catalog. Order forms and catalogs available on website.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Facebook": "noddingoniongardens@gmail.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.640439,
-          44.047889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Ernst Conservation Seeds, Inc.",
-        "Owner_Con": "Calvin Ernst",
-        "Contact_Email": "mull",
-        "Contact_Number": "(800) 873-3321",
-        "Sales Con": "Stephanie Breckenridge",
-        "General E": "mull",
-        "Website": "sales@ernstseed.com",
-        "Facebook": "http://www.ernstseed.com/",
-        "State": "mull",
-        "": "PA",
-        "Address": "8884 Mercer Pike, Meadville PA 16335",
-        "City": "8884 Mercer Pike",
-        "Zip": "Meadville",
-        "Material": "PA",
-        "Notes": "16335",
-        "Keep": "Seeds native to eastern North America",
-        "addrtype": "Catalog and price list available on website. Can order by mail, phone, fax, or email.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.164438,
-          41.5933749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Cardno JFNew Native Plant Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "574.586.2412",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "nurserysales@cardno.com",
-        "Facebook": "http://www.cardnojfnew.com/",
-        "State": "mull",
-        "": "IN",
-        "Address": "128 Sunset Dr Walkerton, IN 46574",
-        "City": "128 Sunset Dr",
-        "Zip": "Walkerton",
-        "Material": "IN",
-        "Notes": "46574",
-        "Keep": "Seeds, bare root, plugs, and gallons. Trees, vines, ferns, forbs, and grasses. Wetland and prarie seed mixes",
-        "addrtype": "Wholesale only.  Walk-ins by appointment or schedule a tour.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.492282,
-          41.456809
+          -81.947088,
+          41.312327
         ]
       }
     },
@@ -959,26 +247,25 @@ var geoJson = ({
       "type": "Feature",
       "properties": {
         "Nursery": "North Creek Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
+        "Contact_Email": "steve@northcreeknurseries.com",
         "Contact_Number": "610-255-0100",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "claudia@northcreeknurseries.com",
-        "Facebook": "http://www.northcreeknurseries.com/",
-        "State": "mull",
-        "": "PA",
+        "State": "PA",
         "Address": "388 North Creek Road Landenberg, PA 19350",
-        "City": "388 North Creek Road",
-        "Zip": "Landenberg",
-        "Material": "PA",
-        "Notes": "19350",
-        "Keep": "plugs of native eastern US perennials, ornamental grasses, ferns, vines and shrubs",
-        "addrtype": "Wholesale only.  $500 minimum for first time customers. Also scott@northcreeknurseries.com or info@northcreeknurseries.com",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Street": "388 North Creek Road",
+        "City": "Landenberg",
+        "State_1": "PA",
+        "Zip": 19350,
+        "Keep": "plugs of native eastern US perennials, ornamental grasses, ferns and vines",
+        "Type": "Wholesale only.  $500 minimum for first time customers. Also scott@northcreeknurseries.com or info@northcreeknurseries.com",
+        "Latitude": 39.776126,
+        "Longitude": -75.8096,
+        "Owner_Con": "Steve Castorani",
+        "Sales_Con": "Claudia West",
+        "General E": "info@northcreeknurseries.com",
+        "Facebook": "claudia@northcreeknurseries.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
@@ -991,396 +278,32 @@ var geoJson = ({
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Taylor Creek Restoration Nurseries",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "(608) 897-8641",
-        "Sales Con": "Cindy Whitehead",
-        "General E": "mull",
-        "Website": "nursery.service@appliedeco.com",
-        "Facebook": "http://www.restorationnurseries.com/",
-        "State": "mull",
-        "": "WI",
-        "Address": "17921 Smith Road P.O. Box 256 Brodhead, WI 53520",
-        "City": "17921 Smith Road",
-        "Zip": "Brodhead",
-        "Material": "WI",
-        "Notes": "53520",
-        "Keep": "seed, plug, and contract grow natives of the upper midwest",
-        "addrtype": "Wholesale and retail. Retail Assistance and Sales by Appointment Only. Species list, catalog, and order forms found on website.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Nursery": "Ohio Prairie Nursery",
+        "Contact_Email": "bob@opnseed.com",
+        "Contact_Number": "866-569-3380",
+        "State": "OH",
+        "Address": "11961 Alpha Rd, Hiram, OH 44234",
+        "Street": "11961 Alpha Rd",
+        "City": "Hiram",
+        "State_1": "OH",
+        "Zip": 44234,
+        "Keep": "seeds (grasses, rushes, forbs)",
+        "Type": "ORDERS TAKEN BY PHONE or On line Store",
+        "Latitude": 41.319013,
+        "Longitude": -81.161641,
+        "Owner_Con": "Bob & Sandy Kehres",
+        "Sales_Con": "Bob/Dave",
+        "General E": "info@ohioprairienursery.com",
+        "Facebook": "info@ohioprairienursery.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.3533035,
-          42.5583235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Cold Stream Farm",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "(231) 464-5809",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "info@coldstreamfarm.net",
-        "Facebook": "http://www.coldstreamfarm.net/",
-        "State": "mull",
-        "": "MI",
-        "Address": "8585 N. Stephens Rd. Free Soil, MI 49411",
-        "City": "8585 N. Stephens Rd.",
-        "Zip": "Free Soil",
-        "Material": "MI",
-        "Notes": "49411",
-        "Keep": "bare root trees and shrubs",
-        "addrtype": "Wholesale and retail. Order online, via phone, or mail orderform",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2006107,
-          44.1097786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Country Road Greenhouse",
-        "Owner_Con": "Larry and Sandy Creekmur",
-        "Contact_Email": "mull",
-        "Contact_Number": "815-384-3311",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "crg@prairieplugs.com",
-        "Facebook": "http://www.prairieplugs.com/",
-        "State": "mull",
-        "": "IL",
-        "Address": "19561 E. Twombly Rd. Rochelle, Il 61068",
-        "City": "19561 E. Twombly Rd.",
-        "Zip": "Rochelle",
-        "Material": "Il",
-        "Notes": "61068",
-        "Keep": "Plugs of native prarie plants, and water willow",
-        "addrtype": "Plant list available on website.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.970157,
-          41.9496558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Kendal Hill Nursery",
-        "Owner_Con": "Kathy Sharp",
-        "Contact_Email": "mull",
-        "Contact_Number": "815-695-9907",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "info@kendallhillnursery.com",
-        "Facebook": "http://kendallhillnursery.com/",
-        "State": "mull",
-        "": "IL",
-        "Address": "15990 Newark Road Newark, IL 60541",
-        "City": "15990 Newark Road",
-        "Zip": "Newark",
-        "Material": "IL",
-        "Notes": "60541",
-        "Keep": "Trees and shrubs, including but not limited to native trees",
-        "addrtype": "Wholesale.  Kendall Hill Nursery is a Female Business Enterprise.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.5590411,
-          41.5372992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Pizzo Native Plant Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "815.826.0566",
-        "Sales Con": "Grace Koehler",
-        "General E": "gracek@pizzonursery.com",
-        "Website": "mull",
-        "Facebook": "http://pizzonursery.com/",
-        "State": "mull",
-        "": "IL",
-        "Address": "10729 Pine Road Leland, IL 60531",
-        "City": "10729 Pine Road",
-        "Zip": "Leland",
-        "Material": "IL",
-        "Notes": "60531",
-        "Keep": "Plugs and seed mixes of native prarie, woodland, and wetland plants, will contract grow. Certain times of the year  spring ephemerals, emergent, and submergent species may be avaialable",
-        "addrtype": "Wholesale and retail. For a wholesale purchase call, email, or fax the order. The minimum order is one full flat.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.739604,
-          41.676161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Spence Restoration Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "(765) 286-7154",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "Kevin@spencenursery.com",
-        "Facebook": "http://www.spencenursery.com/",
-        "State": "mull",
-        "": "IN",
-        "Address": "2220 East Fuson Road Muncie, IN 47302",
-        "City": "2220 East Fuson Road",
-        "Zip": "Muncie",
-        "Material": "IN",
-        "Notes": "47302",
-        "Keep": "Native Great Lake and Ohio Valley region seeds and plugs",
-        "addrtype": "Wholesale only, no retail sales",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.359253,
-          40.152703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Blazing Star Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "815.338.4716",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "mull",
-        "Facebook": "http://blazing-star.com/joomla/",
-        "State": "mull",
-        "": "IL",
-        "Address": "2107 Edgewood Drive, Woodstock, IL 60098",
-        "City": "2107 Edgewood Drive",
-        "Zip": "Woodstock",
-        "Material": "IL",
-        "Notes": "60098",
-        "Keep": "Native seeds for prarie, woodland, and wetland habitats",
-        "addrtype": "Wholesale and retail. Online ordering. No email listed, only a contact form on their website.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.436758,
-          42.297633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Woody Warehouse Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "866-766-8367",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "sales@woodywarehouse.com",
-        "Facebook": "http://www.woodywarehouse.com/",
-        "State": "mull",
-        "": "IN",
-        "Address": "3216 W. 850 N. Lizton, IN 46149",
-        "City": "3216 W. 850 N.",
-        "Zip": "Lizton",
-        "Material": "IN",
-        "Notes": "46149",
-        "Keep": "Native hardwoods in containers, contract grow available",
-        "addrtype": "Wholesale and retail",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.5703554,
-          39.8793368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Wetland Supply Co.",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "724-727-3772",
-        "Sales Con": "Dave Hails",
-        "General E": "Wetplants@aol.com",
-        "Website": "mull",
-        "Facebook": "http://wetlandsupply.com/",
-        "State": "mull",
-        "": "PA",
-        "Address": "194 Goodview Drive, Apollo, PA 15613",
-        "City": "194 Goodview Drive",
-        "Zip": "Apollo",
-        "Material": "PA",
-        "Notes": "15613",
-        "Keep": "Specializes in wetland restoration",
-        "addrtype": "Wholesale and retail. Catalog and pricing list on website. Call or fax to confirm pricing and availibility.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5863673,
-          40.555067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "American Native Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "855‐752‐6862",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "contact@AmericanNativeNursery.com",
-        "Facebook": "http://americannativenursery.com/",
-        "State": "mull",
-        "": "PA",
-        "Address": "2191 Hillcrest Road Quakertown, PA 18951",
-        "City": "2191 Hillcrest Road",
-        "Zip": "Quakertown",
-        "Material": "PA",
-        "Notes": "18951",
-        "Keep": "Native plant plugs",
-        "addrtype": "mull",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.3868128,
-          40.4237105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Southern Tier Consulting",
-        "Owner_Con": "Holly",
-        "Contact_Email": "mull",
-        "Contact_Number": "mull",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "froghome@southerntierconsulting.com",
-        "Facebook": "http://www.southerntierconsulting.com/",
-        "State": "mull",
-        "": "NY",
-        "Address": "2701-A Route 305, West Clarksville, NY 14786",
-        "City": "2701-A Route 305",
-        "Zip": "West Clarksville",
-        "Material": "NY",
-        "Notes": "14786",
-        "Keep": "mull",
-        "addrtype": "mull",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.2430688,
-          42.1281221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nursery": "Plant Delights, Inc.",
-        "Owner_Con": "Tony and Anita Avent",
-        "Contact_Email": "tony@plantdelights.com",
-        "Contact_Number": "919.772.4794",
-        "Sales Con": "Jim Burgan",
-        "General E": "jim@plantdelights.com",
-        "Website": "office@plantdelights.com",
-        "Facebook": "http://www.plantdelights.com/",
-        "State": "mull",
-        "": "NC",
-        "Address": "9241 Sauls Road, Raleigh, NC 27603",
-        "City": "9241 Sauls Road",
-        "Zip": "Raleigh",
-        "Material": "NC",
-        "Notes": "27603",
-        "Keep": "Only perennials",
-        "addrtype": "Retail only. Visitors are welcome by appointment only.",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.639563,
-          35.626352
+          -81.161641,
+          41.319013
         ]
       }
     },
@@ -1388,26 +311,25 @@ var geoJson = ({
       "type": "Feature",
       "properties": {
         "Nursery": "Pinelands",
-        "Owner_Con": "Don Knezick",
         "Contact_Email": "mull",
         "Contact_Number": "609-291-9486",
-        "Sales Con": "Fran Chismar",
-        "General E": "mull",
-        "Website": "sales@pinelandsnursery.com",
-        "Facebook": "http://www.pinelandsnursery.com/p/home-page.html",
-        "State": "mull",
-        "": "NJ",
+        "State": "NJ",
         "Address": "323 Island Road Columbus, NJ 08022",
-        "City": "323 Island Road",
-        "Zip": "Columbus",
-        "Material": "NJ",
-        "Notes": "08022",
+        "Street": "323 Island Road",
+        "City": "Columbus",
+        "State_1": "NJ",
+        "Zip": 8022,
         "Keep": "Wholesale only. Contact for catalog.",
-        "addrtype": "mull",
-        "addrlocat": "1",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Type": "Wholesale only",
+        "Latitude": 40.0673,
+        "Longitude": -74.7046,
+        "Owner_Con": "Don Knezick",
+        "Sales_Con": "Fran Chismar",
+        "General E": "mull",
+        "Facebook": "sales@pinelandsnursery.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
@@ -1420,71 +342,645 @@ var geoJson = ({
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Prairie Nursery",
-        "Owner_Con": "mull",
-        "Contact_Email": "mull",
-        "Contact_Number": "800-476-9453",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "mull",
-        "Facebook": "http://www.prairienursery.com",
-        "State": "mull",
-        "": "WI",
-        "Address": "PO Box 306, Westfield,WI 53964",
-        "City": "PO Box 306",
-        "Zip": "Westfield",
-        "Material": "WI",
-        "Notes": "53964",
-        "Keep": "Native Plant Catalog and Growing Guide :plants and seeds  flowers, grasses, shrubs,ferns, vines",
-        "addrtype": "Catalog on website and can be mailed--very informative",
-        "addrlocat": "0",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Nursery": "Plant Delights, Inc.",
+        "Contact_Email": "tony@plantdelights.com",
+        "Contact_Number": "919.772.4794",
+        "State": "NC",
+        "Address": "9241 Sauls Road, Raleigh, NC 27603",
+        "Street": "9241 Sauls Road",
+        "City": "Raleigh",
+        "State_1": "NC",
+        "Zip": 27603,
+        "Keep": "Only perennials",
+        "Type": "Retail only. Visitors are welcome by appointment only.",
+        "Latitude": 35.626352,
+        "Longitude": -78.639563,
+        "Owner_Con": "Tony and Anita Avent",
+        "Sales_Con": "Jim Burgan",
+        "General E": "jim@plantdelights.com",
+        "Facebook": "office@plantdelights.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.4934393,
-          43.8835948
+          -78.639563,
+          35.626352
         ]
       }
     },
-	{
+    {
       "type": "Feature",
       "properties": {
-        "Nursery": "Genius Loci, inc",
-        "Owner_Con": "mull",
-        "Contact_Email": "craiglimpach@gmail.com",
-        "Contact_Number": "440-324-3465",
-        "Sales Con": "mull",
-        "General E": "mull",
-        "Website": "mull",
-        "Facebook": "http://www.indigination.com/contact.htm",
-        "State": "OH",
-        "": "WI",
-        "Address": "Elyria, OH 44035",
-        "City": "Elyria",
-        "Zip": "44035",
-        "Material": "OH",
-        "Notes": "44035",
-        "Keep": "Native Plants",
-        "addrtype": "Open by appointment only",
-        "addrlocat": "0",
-		'marker-color':'#254503',
-		'marker-size': 'small',
-		'marker-symbol': 'garden'
+        "Nursery": "Prairie Moon Nursery",
+        "Contact_Email": "rebecca@prairiemoon.com",
+        "Contact_Number": "(866) 417-8156",
+        "State": "MN",
+        "Address": "32115 Prairie Lane Winona, MN 55987",
+        "Street": "32115 Prairie Lane",
+        "City": "Winona",
+        "State_1": "MN",
+        "Zip": 55987,
+        "Keep": "Seeds, seed mixes, bare root plants, potted plants native to the upper midwest of the country",
+        "Type": "Mail order nursery. Order online, by mail, or fax. Free color catalog and cultural guide available on website.",
+        "Latitude": 43.902925,
+        "Longitude": -91.636986,
+        "Owner_Con": "Many",
+        "Sales_Con": "Rebecca Brewer",
+        "General E": "rebecca@prairiemoon.com",
+        "Facebook": "info@prairiemoon.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.107332,
-          41.367727
+          -91.636986,
+          43.902925
         ]
       }
-	}  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Scioto Gardens Landscape Nursery",
+        "Contact_Email": "sales@sciotogardens.com",
+        "Contact_Number": "740.363.8264",
+        "State": "OH",
+        "Address": "3351 S.R. 37 W. - Delaware, OH 43015",
+        "Street": "3351 S.R. 37 W.",
+        "City": "Delaware",
+        "State_1": "OH",
+        "Zip": 43015,
+        "Keep": "perennials, ferns, grasses, shrubs, trees",
+        "Type": "Nursery open to public. Plant list available online.",
+        "Latitude": 40.32028,
+        "Longitude": -83.13254,
+        "Owner_Con": "Michael Johnson",
+        "Sales_Con": "Michael Johnson",
+        "General E": "sales@sciotogardens.com",
+        "Facebook": "sales@sciotogardens.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13254,
+          40.32028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Spence Restoration Nursery",
+        "Contact_Email": "mull",
+        "Contact_Number": "(765) 286-7154",
+        "State": "IN",
+        "Address": "2220 East Fuson Road Muncie, IN 47302",
+        "Street": "2220 East Fuson Road",
+        "City": "Muncie",
+        "State_1": "IN",
+        "Zip": 47302,
+        "Keep": "Native Great Lake and Ohio Valley region seeds and plugs",
+        "Type": "Wholesale only, no retail sales",
+        "Latitude": 40.152703,
+        "Longitude": -85.359253,
+        "Owner_Con": "mull",
+        "Sales_Con": "Kevin Tungesvick",
+        "General E": "mull",
+        "Facebook": "Kevin@spencenursery.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.359253,
+          40.152703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Taylor Creek Restoration Nurseries - Brodhead",
+        "Contact_Email": "mull",
+        "Contact_Number": "(608) 897-8641",
+        "State": "WI",
+        "Address": "17921 Smith Road P.O. Box 256 Brodhead, WI 53520",
+        "Street": "17921 Smith Road",
+        "City": "Brodhead",
+        "State_1": "WI",
+        "Zip": 53520,
+        "Keep": "seed, plug, and contract grow natives of the upper midwest",
+        "Type": "Wholesale and retail. Retail Assistance and Sales by Appointment Only. Species list, catalog, and order forms found on website.",
+        "Latitude": 42.558323,
+        "Longitude": -89.353304,
+        "Owner_Con": "Steven Apfelbaum",
+        "Sales_Con": "Cindy Whitehead",
+        "General E": "tcrn@restorationnurseries.com",
+        "Facebook": "nursery.service@appliedeco.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.353304,
+          42.558323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Taylor Creek Restoration Nurseries - Baldwin City",
+        "Contact_Email": "mull",
+        "Contact_Number": "(785) 594-2245",
+        "State": "KS",
+        "Address": "1269 N 222nd Road, Baldwin City, KS 66006",
+        "Street": "1269 N 222nd Road",
+        "City": "Baldwin City",
+        "State_1": "KS",
+        "Zip": 66006,
+        "Keep": "seed, plug, and contract grow natives of the upper midwest",
+        "Type": "Wholesale Only. Sales by Appointment Only. Species list, catalog, and order forms found on website.",
+        "Latitude": 38.772243,
+        "Longitude": -95.266828,
+        "Owner_Con": "Steven Apfelbaum",
+        "Sales_Con": "Elliott Duemler",
+        "General E": "krrn@restorationnurseries.com",
+        "Facebook": "krrn@appliedeco.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.266828,
+          38.772243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Genius Loci, inc",
+        "Contact_Email": "craiglimpach@gmail.com",
+        "Contact_Number": "440-324-3465",
+        "State": "OH",
+        "Address": "Elyria, OH 44035",
+        "Street": "Elyria",
+        "City": "44035",
+        "State_1": "OH",
+        "Zip": 44035,
+        "Keep": "Native Plants",
+        "Type": "Open by appointment only",
+        "Latitude": 41.414073,
+        "Longitude": -82.142785,
+        "Owner_Con": "Craig Limpach",
+        "Sales_Con": "mull",
+        "General E": "mull",
+        "Facebook": "mull",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.142785,
+          41.414073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Gardenscapes by Joanna",
+        "Contact_Email": "gardenscapesbyjoanna@yahoo.com",
+        "Contact_Number": "(440) 935-5074",
+        "State": "OH",
+        "Address": "15365 Gifford Road Oberlin, OH 44074",
+        "Street": "15365 Gifford Road",
+        "City": "Oberlin",
+        "State_1": "OH",
+        "Zip": 44074,
+        "Keep": "perennials, trees, shrubs",
+        "Type": "Retail. Nursery is open by appointment only.",
+        "Latitude": 41.260074,
+        "Longitude": -82.288716,
+        "Owner_Con": "Joanna Thomas",
+        "Sales_Con": "Joanna",
+        "General E": "gardenscapesbyjoanna@yahoo.com",
+        "Facebook": "gardenscapesbyjoanna@yahoo.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.288716,
+          41.260074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Pizzo Native Plant Nursery",
+        "Contact_Email": "jackp@pizzo.info",
+        "Contact_Number": "815.826.0566",
+        "State": "IL",
+        "Address": "10729 Pine Road Leland, IL 60531",
+        "Street": "10729 Pine Road",
+        "City": "Leland",
+        "State_1": "IL",
+        "Zip": 60531,
+        "Keep": "Plugs and seed mixes of native prarie, woodland, and wetland plants, will contract grow. Certain times of the year  spring ephemerals, emergent, and submergent species may be avaialable",
+        "Type": "Wholesale and retail. For a wholesale purchase call, email, or fax the order. The minimum order is one full flat.",
+        "Latitude": 41.674577,
+        "Longitude": -88.738121,
+        "Owner_Con": "Jack Pizzo",
+        "Sales_Con": "Grace Koehler",
+        "General E": "gracek@pizzonursery.com",
+        "Facebook": "mull",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.738121,
+          41.674577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Envirotech Consultants/ Nursery",
+        "Contact_Email": "mull",
+        "Contact_Number": "740.743.1669",
+        "State": "OH",
+        "Address": "5380 Township, 143 NE, Somerset, OH 43783",
+        "Street": "5380 Township 143 NE",
+        "City": "Somerset",
+        "State_1": "OH",
+        "Zip": 43783,
+        "Keep": "native plant material, prairie,wetland, and forest ecosystems",
+        "Type": "WHOLESALE/retail and custom grow plant materials for Habitat Restoration",
+        "Latitude": 39.772387,
+        "Longitude": -82.298438,
+        "Owner_Con": "mull",
+        "Sales_Con": "John Kiertscher",
+        "General E": "info@envirotechcon.com",
+        "Facebook": "info@envirotechcon.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.298438,
+          39.772387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "ArcheWild Native Nurseries",
+        "Contact_Email": "contact@archewild.com",
+        "Contact_Number": "855-752-6862",
+        "State": "PA",
+        "Address": "2191 Hillcrest Road Quakertown, PA 18951",
+        "Street": "2191 Hillcrest Road",
+        "City": "Quakertown",
+        "State_1": "PA",
+        "Zip": 18951,
+        "Keep": "Native plants",
+        "Type": "Wholesale and retail",
+        "Latitude": 40.42371,
+        "Longitude": -75.386813,
+        "Owner_Con": "mull",
+        "Sales_Con": "mull",
+        "General E": "contact@archewild.com",
+        "Facebook": "contact@archewild.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.386813,
+          40.42371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Avalon Gardens",
+        "Contact_Email": "mull",
+        "Contact_Number": "440.286.2126",
+        "State": "OH",
+        "Address": "12511 Fowlers Mill Rd. Chardon, OH 44024",
+        "Street": "12511 Fowlers Mill Rd.",
+        "City": "Chardon",
+        "State_1": "OH",
+        "Zip": 44024,
+        "Keep": "perennials, shrubs, trees, grasses",
+        "Type": "mull",
+        "Latitude": 41.528648,
+        "Longitude": -81.255323,
+        "Owner_Con": "Mary Slingluff",
+        "Sales_Con": "mull",
+        "General E": "mslingluff@roadrunner.com",
+        "Facebook": "mull",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.255323,
+          41.528648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Klyn Nurseries",
+        "Contact_Email": "kczajka@klynnurseries.com",
+        "Contact_Number": "1-800-860-8104",
+        "State": "OH",
+        "Address": "3322 S. Ridge Rd. Perry, OH 44081",
+        "Street": "3322 S. Ridge Rd.",
+        "City": "Perry",
+        "State_1": "OH",
+        "Zip": 44081,
+        "Keep": "grasses, perennials, ferns, vines, roses (shrub and climbing), dwarf conifers, shade and ornamental trees",
+        "Type": "WHOLESALE ONLY",
+        "Latitude": 41.737253,
+        "Longitude": -81.16448,
+        "Owner_Con": "Bill Hendricks",
+        "Sales_Con": "Kevin Czajka",
+        "General E": "kczajka@klynnurseries.com",
+        "Facebook": "klyn@KlynNurseries.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.16448,
+          41.737253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Southern Tier Consulting",
+        "Contact_Email": "froghome@southerntierconsulting.com",
+        "Contact_Number": "585-968-3120",
+        "State": "NY",
+        "Address": "2701-A Route 305 Cuba, NY 14727",
+        "Street": "2701-A Route 305",
+        "City": "Cuba ",
+        "State_1": "NY",
+        "Zip": 14727,
+        "Keep": "we supply wetland and upland plant material ",
+        "Type": "Wetland and bank restoraiton",
+        "Latitude": 42.118231,
+        "Longitude": -78.253869,
+        "Owner_Con": "Johneta Wilson",
+        "Sales_Con": "mull",
+        "General E": "froghome@southerntierconsulting.com",
+        "Facebook": "froghome@southerntierconsulting.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.253869,
+          42.118231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Ernst Conservation Seeds, Inc.",
+        "Contact_Email": "mull",
+        "Contact_Number": "(800) 873-3321",
+        "State": "PA",
+        "Address": "8884 Mercer Pike, Meadville PA 16335",
+        "Street": "8884 Mercer Pike",
+        "City": "Meadville",
+        "State_1": "PA",
+        "Zip": 16335,
+        "Keep": "Seeds native to eastern North America",
+        "Type": "Catalog and price list available on website. Can order by mail, phone, fax, or email.",
+        "Latitude": 41.588546,
+        "Longitude": -80.153423,
+        "Owner_Con": "Calvin Ernst",
+        "Sales_Con": "Nikki Hindle",
+        "General E": "mull",
+        "Facebook": "sales@ernstseed.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.153423,
+          41.588546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Native Roots, Inc.",
+        "Contact_Email": "sonia.bingham@nativeroots.com",
+        "Contact_Number": "330-704-5735",
+        "State": "OH",
+        "Address": "3576 Five Oaks Drive, Richfield, OH 44286",
+        "Street": "3576 Five Oaks Drive",
+        "City": "Richfield",
+        "State_1": "OH",
+        "Zip": 44286,
+        "Keep": "Sister Owned and Operated Native Plant Nursery",
+        "Type": "Homeowner and restoration practitioners. Specialize in restoration of wetlands and floodplains.  Have many varieties that are excellent for butterfly gardens.  Create specialty seed packets and grows material from hand-collected seed.",
+        "Latitude": 41.210223,
+        "Longitude": -81.621876,
+        "Owner_Con": "Sonia Bingham",
+        "Sales_Con": "Sonia Bingham",
+        "General E": "sonia.bingham@nativeroots.com",
+        "Facebook": "sonia.bingham@nativeroots.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.621876,
+          41.210223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Woody Warehouse Nursery",
+        "Contact_Email": "peteberg@woodywarehouse.com",
+        "Contact_Number": "866-766-8367",
+        "State": "IN",
+        "Address": "3339 W. 850 N. Lizton, IN 46149",
+        "Street": "3339 W. 850 N.",
+        "City": "Lizton",
+        "State_1": "IN",
+        "Zip": 46149,
+        "Keep": "Native hardwoods in containers, contract grow available",
+        "Type": "Wholesale and retail by appointment",
+        "Latitude": 39.88634,
+        "Longitude": -86.582569,
+        "Owner_Con": "Paul Berg Peggy Berg Kent Berg Peter Berg",
+        "Sales_Con": "Pete Berg",
+        "General E": "sales@wodywarehouse.com",
+        "Facebook": "sales@woodywarehouse.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.582569,
+          39.88634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Riverview Nursery, Inc",
+        "Contact_Email": "riverview.flowers@gmail.com",
+        "Contact_Number": "260-704-5092",
+        "State": "IN",
+        "Address": "5635 CR 72",
+        "Street": "mull",
+        "City": "Spencerville",
+        "State_1": "IN",
+        "Zip": 46788,
+        "Keep": "Local genotype native plants for landscapes and gardens",
+        "Type": "Perennial forbs, grasses, shrubs and trees for wet, mesic and dry soils. Most require some sun.",
+        "Latitude": 41.268499,
+        "Longitude": -84.92573,
+        "Owner_Con": "Martha Ferguson",
+        "Sales_Con": "Martha Ferguson",
+        "General E": "riverview.flowers@gmail.com",
+        "Facebook": "riverview.flowers@gmail.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.92573,
+          41.268499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Perennials Preferred",
+        "Contact_Email": "penny.h.orr@gmail.com",
+        "Contact_Number": "440 729 7885",
+        "State": "OH",
+        "Address": "7572 Mayfield Road, Chesterland, Ohio 44026",
+        "Street": "7572 Mayfield Road",
+        "City": "Chesterland",
+        "State_1": "OH",
+        "Zip": 44026,
+        "Keep": "Perennials, Annuals, Organic Untreated Heirloom Seeds, Vegetable Plants, Soil Amendments, Pollinator Boxes, Bird Seed & Feeders and Other Garden Related Goods & Gifts",
+        "Type": "Specialize in growing and stocking unusual plants including a good (and growing) selection of Natives. Will do special orders. ",
+        "Latitude": 41.524441,
+        "Longitude": -81.370395,
+        "Owner_Con": "Penny Orr",
+        "Sales_Con": "Julie Bewley",
+        "General E": "perennialspreferred@gmail.com",
+        "Facebook": "perennialspreferred@gmail.com",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.370395,
+          41.524441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Grace Brothers Nursery & Supply",
+        "Contact_Email": "gracebrothers@sbcglobal.net",
+        "Contact_Number": "440-237-2577",
+        "State": "OH",
+        "Address": "12905 Ridge Road, North Royalton, Ohio 44133",
+        "Street": "12905 Ridge Road",
+        "City": "North Royalton",
+        "State_1": "OH",
+        "Zip": 44133,
+        "Keep": "6 acres of perennials, trees and shrubs. �If we do not have it in stock we can get it in within a week or two.",
+        "Type": "Retail & Wholesale",
+        "Latitude": 41.320158,
+        "Longitude": -81.733824,
+        "Owner_Con": "Kevin & Don Grace",
+        "Sales_Con": "Nicholle or Brian",
+        "General E": "gracebrothers@sbcglobal.net",
+        "Facebook": "gracebrothers@sbcglobal.net",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.733824,
+          41.320158
+        ]
+      }
+    }
   ]
-  })
+})
   
 
 
@@ -1508,7 +1004,7 @@ markers.eachLayer(function(layer) {
 		'<p class="popup-p">' + ( layer.feature.properties.Facebook !== 'mull' ? '<span>Website: </span>' + '<a href="' + layer.feature.properties.Facebook + '" target="_blank">' + layer.feature.properties.Facebook : "") + '</a>' + '</p>' +
 		
 		'<p class="popup-p">' + ( layer.feature.properties.Keep !== 'mull' ? '<span>Plants: </span>' + layer.feature.properties.Keep : "" ) +  '</p>' +
-        '<p class="popup-p">' + ( layer.feature.properties.addrtype !== 'mull' ? '<span>Other: </span>' + layer.feature.properties.addrtype : "" )
+        '<p class="popup-p">' + ( layer.feature.properties.Type !== 'mull' ? '<span>Other: </span>' + layer.feature.properties.Type : "" )
 	+ '</p>' + '</div>';
 
     layer.bindPopup(content);
