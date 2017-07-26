@@ -32,7 +32,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "mull",
         "General E": "mull",
-        "Facebook": "nurserysales@cardno.com",
+        "Facebook": "www.cardnojfnew.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -64,7 +64,7 @@ var geoJson = ({
         "Owner_Con": "Mark Gilson",
         "Sales_Con": "Annette Howard",
         "General E": "annette@gilsongardens.biz",
-        "Facebook": "sales@gilsongardens.biz",
+        "Facebook": "www.gilsongardens.biz",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -96,7 +96,7 @@ var geoJson = ({
         "Owner_Con": "Jan Hunter",
         "Sales_Con": "Jan Hunter",
         "General E": "nnn@naturallynative.net",
-        "Facebook": "nnn@naturallynative.net",
+        "Facebook": "www.naturallynative.net",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -128,7 +128,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "mull",
         "General E": "mull",
-        "Facebook": "info@coldstreamfarm.net",
+        "Facebook": "www.coldstreamfarm.net",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -160,7 +160,7 @@ var geoJson = ({
         "Owner_Con": "Peter Borchard",
         "Sales_Con": "mull",
         "General E": "mull",
-        "Facebook": "sales@companionplants.com",
+        "Facebook": "www.companionplants.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -192,7 +192,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "mull",
         "General E": "mull",
-        "Facebook": "nativeplants@keystoneflora.com",
+        "Facebook": "www.keystoneflora.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -224,7 +224,7 @@ var geoJson = ({
         "Owner_Con": "Beth and Marty Coyne",
         "Sales_Con": "mull",
         "General E": "mull",
-        "Facebook": "noddingoniongardens@gmail.com",
+        "Facebook": "www.noddingoniongardens.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -256,7 +256,7 @@ var geoJson = ({
         "Owner_Con": "Steve Castorani",
         "Sales_Con": "Claudia West",
         "General E": "info@northcreeknurseries.com",
-        "Facebook": "claudia@northcreeknurseries.com",
+        "Facebook": "www.northcreeknurseries.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -288,7 +288,7 @@ var geoJson = ({
         "Owner_Con": "Bob & Sandy Kehres",
         "Sales_Con": "Bob/Dave",
         "General E": "info@ohioprairienursery.com",
-        "Facebook": "info@ohioprairienursery.com",
+        "Facebook": "www.ohioprairienursery.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -320,7 +320,7 @@ var geoJson = ({
         "Owner_Con": "Don Knezick",
         "Sales_Con": "Fran Chismar",
         "General E": "mull",
-        "Facebook": "sales@pinelandsnursery.com",
+        "Facebook": "www.pinelandsnursery.com/p/home-page.html",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -352,7 +352,7 @@ var geoJson = ({
         "Owner_Con": "Tony and Anita Avent",
         "Sales_Con": "Jim Burgan",
         "General E": "jim@plantdelights.com",
-        "Facebook": "office@plantdelights.com",
+        "Facebook": "www.plantdelights.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -384,7 +384,7 @@ var geoJson = ({
         "Owner_Con": "Many",
         "Sales_Con": "Rebecca Brewer",
         "General E": "rebecca@prairiemoon.com",
-        "Facebook": "info@prairiemoon.com",
+        "Facebook": "www.prairiemoon.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -416,7 +416,7 @@ var geoJson = ({
         "Owner_Con": "Michael Johnson",
         "Sales_Con": "Michael Johnson",
         "General E": "sales@sciotogardens.com",
-        "Facebook": "sales@sciotogardens.com",
+        "Facebook": "www.sciotogardens.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -448,7 +448,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "Kevin Tungesvick",
         "General E": "mull",
-        "Facebook": "Kevin@spencenursery.com",
+        "Facebook": "www.spencenursery.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -480,7 +480,7 @@ var geoJson = ({
         "Owner_Con": "Steven Apfelbaum",
         "Sales_Con": "Cindy Whitehead",
         "General E": "tcrn@restorationnurseries.com",
-        "Facebook": "nursery.service@appliedeco.com",
+        "Facebook": "www.restorationnurseries.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -544,7 +544,7 @@ var geoJson = ({
         "Owner_Con": "Craig Limpach",
         "Sales_Con": "mull",
         "General E": "mull",
-        "Facebook": "mull",
+        "Facebook": "www.indigination.com/contact.htm",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -576,7 +576,7 @@ var geoJson = ({
         "Owner_Con": "Joanna Thomas",
         "Sales_Con": "Joanna",
         "General E": "gardenscapesbyjoanna@yahoo.com",
-        "Facebook": "gardenscapesbyjoanna@yahoo.com",
+        "Facebook": "www.gardenscapesbyjoanna.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -608,7 +608,7 @@ var geoJson = ({
         "Owner_Con": "Jack Pizzo",
         "Sales_Con": "Grace Koehler",
         "General E": "gracek@pizzonursery.com",
-        "Facebook": "mull",
+        "Facebook": "www.pizzonursery.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -640,7 +640,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "John Kiertscher",
         "General E": "info@envirotechcon.com",
-        "Facebook": "info@envirotechcon.com",
+        "Facebook": "www.envirotechcon.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -672,7 +672,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "mull",
         "General E": "contact@archewild.com",
-        "Facebook": "contact@archewild.com",
+        "Facebook": "http://archewild.com/",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -704,7 +704,7 @@ var geoJson = ({
         "Owner_Con": "Mary Slingluff",
         "Sales_Con": "mull",
         "General E": "mslingluff@roadrunner.com",
-        "Facebook": "mull",
+        "Facebook": "http://www.avalongardensinn.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -736,7 +736,7 @@ var geoJson = ({
         "Owner_Con": "Bill Hendricks",
         "Sales_Con": "Kevin Czajka",
         "General E": "kczajka@klynnurseries.com",
-        "Facebook": "klyn@KlynNurseries.com",
+        "Facebook": "www.klynnurseries.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -768,7 +768,7 @@ var geoJson = ({
         "Owner_Con": "Johneta Wilson",
         "Sales_Con": "mull",
         "General E": "froghome@southerntierconsulting.com",
-        "Facebook": "froghome@southerntierconsulting.com",
+        "Facebook": "www.southerntierconsulting.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -800,7 +800,7 @@ var geoJson = ({
         "Owner_Con": "Calvin Ernst",
         "Sales_Con": "Nikki Hindle",
         "General E": "mull",
-        "Facebook": "sales@ernstseed.com",
+        "Facebook": "www.ernstseed.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -832,7 +832,7 @@ var geoJson = ({
         "Owner_Con": "Sonia Bingham",
         "Sales_Con": "Sonia Bingham",
         "General E": "sonia.bingham@nativeroots.com",
-        "Facebook": "sonia.bingham@nativeroots.com",
+        "Facebook": "www.nativerootsinc.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -864,7 +864,7 @@ var geoJson = ({
         "Owner_Con": "Paul Berg Peggy Berg Kent Berg Peter Berg",
         "Sales_Con": "Pete Berg",
         "General E": "sales@wodywarehouse.com",
-        "Facebook": "sales@woodywarehouse.com",
+        "Facebook": "www.woodywarehouse.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -896,7 +896,7 @@ var geoJson = ({
         "Owner_Con": "Martha Ferguson",
         "Sales_Con": "Martha Ferguson",
         "General E": "riverview.flowers@gmail.com",
-        "Facebook": "riverview.flowers@gmail.com",
+        "Facebook": "www.riverviewNativeNursery.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -928,7 +928,7 @@ var geoJson = ({
         "Owner_Con": "Penny Orr",
         "Sales_Con": "Julie Bewley",
         "General E": "perennialspreferred@gmail.com",
-        "Facebook": "perennialspreferred@gmail.com",
+        "Facebook": "www.perennialspreferred.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -960,7 +960,7 @@ var geoJson = ({
         "Owner_Con": "Kevin & Don Grace",
         "Sales_Con": "Nicholle or Brian",
         "General E": "gracebrothers@sbcglobal.net",
-        "Facebook": "gracebrothers@sbcglobal.net",
+        "Facebook": "www.gracebrosnursery.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -1027,7 +1027,7 @@ markers.eachLayer(function(layer) {
         '<p class="popup-p">' + '<span>Address: </span>' +layer.feature.properties.Address + '</p>' +
         '<p class="popup-p">' + ( layer.feature.properties.Contact_Number !== 'mull' ? '<span>Phone: </span>' + layer.feature.properties.Contact_Number : "" ) +  '</p>' +
 		
-		'<p class="popup-p">' + ( layer.feature.properties.Facebook !== 'mull' ? '<span>Contact: </span>' + '<a href="' + layer.feature.properties.Facebook + '" target="_blank">' + layer.feature.properties.Facebook : "") + '</a>' + '</p>' +
+		'<p class="popup-p">' + ( layer.feature.properties.Facebook !== 'mull' ? '<span>Website: </span>' + '<a href="' + layer.feature.properties.Facebook + '" target="_blank">' + layer.feature.properties.Facebook : "") + '</a>' + '</p>' +
 		
 		'<p class="popup-p">' + ( layer.feature.properties.Keep !== 'mull' ? '<span>Plants: </span>' + layer.feature.properties.Keep : "" ) +  '</p>' +
         '<p class="popup-p">' + ( layer.feature.properties.Type !== 'mull' ? '<span>Other: </span>' + layer.feature.properties.Type : "" )
