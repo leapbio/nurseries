@@ -12,12 +12,6 @@ var map = L.mapbox.map('map', 'mapbox.streets', {
 
 var geoJson = ({
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
@@ -823,7 +817,7 @@ var geoJson = ({
       "type": "Feature",
       "properties": {
         "Nursery": "Native Roots, Inc.",
-        "Contact_Email": "sonia.bingham@nativeroots.com",
+        "Contact_Email": "sonia.bingham@nativerootsinc.com",
         "Contact_Number": "330-704-5735",
         "State": "OH",
         "Address": "3576 Five Oaks Drive, Richfield, OH 44286",
@@ -976,6 +970,38 @@ var geoJson = ({
         "coordinates": [
           -81.733824,
           41.320158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Quail Ridge Specimen Trees",
+        "Contact_Email": "dstruve51@gmail.com",
+        "Contact_Number": "(614) 313-5975",
+        "State": "OH",
+        "Address": "6335 Oregonia Rd, Oregonia, OH 45054",
+        "Street": "6335 Oregonia Road",
+        "City": "Oregonia",
+        "State_1": "OH",
+        "Zip": 45054,
+        "Keep": "3-gallon and 20 gallon locally sourced native trees and shrubs",
+        "Type": "Retail",
+        "Latitude": 39.45471,
+        "Longitude": -84.080879,
+        "Owner_Con": "mull",
+        "Sales_Con": "mull",
+        "General E": "mull",
+        "Facebook": "mull",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08084750175476,
+          39.457385946858714
         ]
       }
     }
