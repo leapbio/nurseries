@@ -704,7 +704,7 @@ var geoJson = ({
         "Owner_Con": "Mary Slingluff",
         "Sales_Con": "mull",
         "General E": "mslingluff@roadrunner.com",
-        "Facebook": "http://www.avalongardensinn.com",
+        "Facebook": "www.avalongardensinn.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
@@ -736,7 +736,7 @@ var geoJson = ({
         "Owner_Con": "Bill Hendricks",
         "Sales_Con": "Kevin Czajka",
         "General E": "kczajka@klynnurseries.com",
-        "Facebook": "http://www.klynnurseries.com",
+        "Facebook": "www.klynnurseries.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
