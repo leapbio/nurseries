@@ -672,7 +672,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "mull",
         "General E": "contact@archewild.com",
-        "Facebook": "http://archewild.com/",
+        "Facebook": "www.archewild.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
