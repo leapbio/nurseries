@@ -1027,7 +1027,7 @@ markers.eachLayer(function(layer) {
         '<p class="popup-p">' + '<span>Address: </span>' +layer.feature.properties.Address + '</p>' +
         '<p class="popup-p">' + ( layer.feature.properties.Contact_Number !== 'mull' ? '<span>Phone: </span>' + layer.feature.properties.Contact_Number : "" ) +  '</p>' +
 		
-		'<p class="popup-p">' + 'http://' + ( layer.feature.properties.Facebook !== 'mull' ? '<span>Website: </span>' + '<a href="' + layer.feature.properties.Facebook + '" target="_blank">' + layer.feature.properties.Facebook : "") + '</a>' + '</p>' +
+		'<p class="popup-p">' + ( layer.feature.properties.Facebook !== 'mull' ? '<span>Website: </span>' + '<a href="' + layer.feature.properties.Facebook + '" target="_blank">' + layer.feature.properties.Facebook : "") + '</a>' + '</p>' +
 		
 		'<p class="popup-p">' + ( layer.feature.properties.Keep !== 'mull' ? '<span>Plants: </span>' + layer.feature.properties.Keep : "" ) +  '</p>' +
         '<p class="popup-p">' + ( layer.feature.properties.Type !== 'mull' ? '<span>Other: </span>' + layer.feature.properties.Type : "" )
