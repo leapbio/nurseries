@@ -196,6 +196,12 @@ h5 {
   height:25px;
   }
 
+  #form-link {
+  color: #0583f1;
+  margin-left: 14px;
+  outline-style: ridge;		
+}
+
 article {
     padding: 10px 10px 20px 10px;
  }
