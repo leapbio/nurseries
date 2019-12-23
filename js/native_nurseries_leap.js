@@ -512,7 +512,7 @@ var geoJson = ({
         "Owner_Con": "Steven Apfelbaum",
         "Sales_Con": "Elliott Duemler",
         "General E": "krrn@restorationnurseries.com",
-        "Facebook": "krrn@appliedeco.com",
+        "Facebook": "www.restorationnurseries.com",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
