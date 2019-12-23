@@ -48,38 +48,6 @@ var geoJson = ({
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Gilson Gardens",
-        "Contact_Email": "mark@gilsongardens.biz",
-        "Contact_Number": "(440) 259-4845",
-        "State": "OH",
-        "Address": "3059 N Ridge Rd. Perry, OH 44081",
-        "Street": "3059 N Ridge Rd.",
-        "City": "Perry",
-        "State_1": "OH",
-        "Zip": 44081,
-        "Keep": "Ground covers, Perennials, Shrubs, Grasses, Vines and Natives",
-        "Type": "Wholesale and retail",
-        "Latitude": 41.771242,
-        "Longitude": -81.172937,
-        "Owner_Con": "Mark Gilson",
-        "Sales_Con": "Annette Howard",
-        "General E": "annette@gilsongardens.biz",
-        "Facebook": "www.gilsongardens.biz",
-        "marker-color": "#254503",
-        "marker-size": "small",
-        "marker-symbol": "garden"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.172937,
-          41.771242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nursery": "Naturally Native",
         "Contact_Email": "nnn@naturallynative.net",
         "Contact_Number": "(419) 833-2020",
