@@ -32,7 +32,7 @@ var geoJson = ({
         "Owner_Con": "mull",
         "Sales_Con": "mull",
         "General E": "mull",
-        "Facebook": "www.cardnojfnew.com",
+        "Facebook": "http://www.cardnonativeplantnursery.com/",
         "marker-color": "#254503",
         "marker-size": "small",
         "marker-symbol": "garden"
