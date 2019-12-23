@@ -87,7 +87,7 @@ var geoJson = ({
         "Address": "20525 Johnson Rd, South Bend, IN 46614",
         "Street": "20525 Johnson Rd",
         "City": "South Bend",
-        "State_1": "OH",
+        "State_1": "IN",
         "Zip": 46614,
         "Keep": "forbs, ferns, grass/sedges, trees, shrubs",
         "Type": "Order via email or call (419) 833-2020 or visit!",
