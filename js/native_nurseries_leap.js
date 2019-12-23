@@ -84,15 +84,15 @@ var geoJson = ({
         "Contact_Email": "nnn@naturallynative.net",
         "Contact_Number": "(419) 833-2020",
         "State": "OH",
-        "Address": "13737 St. Rt. 582, Bowling Green, OH 43402",
-        "Street": "13737 St. Rt. 582 (Middleton Pike)",
-        "City": "Bowling Green",
+        "Address": "20525 Johnson Rd, South Bend, IN 46614",
+        "Street": "20525 Johnson Rd",
+        "City": "South Bend",
         "State_1": "OH",
-        "Zip": 43402,
+        "Zip": 46614,
         "Keep": "forbs, ferns, grass/sedges, trees, shrubs",
         "Type": "Order via email or call (419) 833-2020 or visit!",
-        "Latitude": 41.458175,
-        "Longitude": -83.633875,
+        "Latitude": 41.6166118,
+        "Longitude": -86.2538159,
         "Owner_Con": "Jan Hunter",
         "Sales_Con": "Jan Hunter",
         "General E": "nnn@naturallynative.net",
@@ -104,8 +104,8 @@ var geoJson = ({
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.633875,
-          41.458175
+          -86.2538159,
+          41.6166118
         ]
       }
     },
