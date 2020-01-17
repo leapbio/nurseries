@@ -196,15 +196,16 @@ h5 {
   height:25px;
   }
 
-  #form-link button {
+  #form-link {
   color: #0583f1;
   margin-left: 14px;
   outline-style: ridge;		
 }
+
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
-  color: white;
+  color: blue;
   padding: 20px;
   text-align: center;
   text-decoration: none;
