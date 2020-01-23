@@ -464,38 +464,6 @@ var geoJson = ({
     {
       "type": "Feature",
       "properties": {
-        "Nursery": "Taylor Creek Restoration Nurseries - Baldwin City",
-        "Contact_Email": "mull",
-        "Contact_Number": "(785) 594-2245",
-        "State": "KS",
-        "Address": "1269 N 222nd Road, Baldwin City, KS 66006",
-        "Street": "1269 N 222nd Road",
-        "City": "Baldwin City",
-        "State_1": "KS",
-        "Zip": 66006,
-        "Keep": "seed, plug, and contract grow natives of the upper midwest",
-        "Type": "Wholesale Only. Sales by Appointment Only. Species list, catalog, and order forms found on website.",
-        "Latitude": 38.772243,
-        "Longitude": -95.266828,
-        "Owner_Con": "Steven Apfelbaum",
-        "Sales_Con": "Elliott Duemler",
-        "General E": "krrn@restorationnurseries.com",
-        "Facebook": "www.restorationnurseries.com",
-        "marker-color": "#254503",
-        "marker-size": "small",
-        "marker-symbol": "garden"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.266828,
-          38.772243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nursery": "Genius Loci, inc",
         "Contact_Email": "craiglimpach@gmail.com",
         "Contact_Number": "440-324-3465",
