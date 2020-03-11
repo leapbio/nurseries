@@ -77,6 +77,39 @@ var geoJson = ({
         ]
       }
     },
+    	 {
+      "type": "Feature",
+      "properties": {
+        "Nursery": "Naturally Potato",
+        "Contact_Email": "nnn@naturallyPotato.net",
+        "Contact_Number": "(414) 833-2020",
+        "State": "IN",
+        "Address": "27056 New Rd, North Liberty, IN 46554",
+        "Street": "27056 New Rd",
+        "City": "North Liberty",
+        "State_1": "IN",
+        "Zip": 46554,
+        "Keep": "forbs, ferns, grass/sedges, trees, shrubs",
+        "Type": "Order via email or call (419) 833-2020 or visit!",
+        "Latitude": 41.563662,
+        "Longitude": -86.388569,
+        "Owner_Con": "Jan Hunter",
+        "Sales_Con": "Jan Hunter",
+        "General E": "nnn@naturallyPotato.net",
+        "Facebook": "www.naturallyPotato.net",
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.388569,
+          41.563662
+        ]
+      }
+    },   
+	  
     {
       "type": "Feature",
       "properties": {
