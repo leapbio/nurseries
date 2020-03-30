@@ -184,7 +184,10 @@ var geoJson = ({
             'point': (42.691312, -86.182050, 0.0),
             'Latitude': 42.691312,
             'Longitude': -86.182050,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -218,7 +221,10 @@ var geoJson = ({
             'point': (39.925213, -84.149294, 0.0),
             'Latitude': 39.925213,
             'Longitude': -84.149294,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -253,7 +259,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 38.400204605012995,
             'Longitude': -85.5489178299659,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -292,7 +301,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 40.7749706,
             'Longitude': -74.4274712,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -331,7 +343,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 41.63580618655718,
             'Longitude': -72.72413350523125,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -369,7 +384,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 41.245809,
             'Longitude': -95.83274663636364,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -407,7 +425,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 41.8081836,
             'Longitude': -88.0903357,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -445,7 +466,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 39.45098978091304,
             'Longitude': -84.68346205196627,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -483,7 +507,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 44.425452,
             'Longitude': -88.020575,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -522,7 +549,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 40.61375907839345,
             'Longitude': -83.59621083913143,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -560,7 +590,10 @@ var geoJson = ({
                 0.0),
             'Latitude': 40.92519,
             'Longitude': -84.360347,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
