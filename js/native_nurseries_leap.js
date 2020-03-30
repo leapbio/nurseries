@@ -109,7 +109,10 @@ var geoJson = ({
             'point': (42.818010, -89.192188, 0.0),
             'Latitude': 42.818010,
             'Longitude': -89.192188,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
@@ -143,7 +146,10 @@ var geoJson = ({
             'point': (42.608449, -84.382836, 0.0),
             'Latitude': 42.608449,
             'Longitude': -84.382836,
-            'elevation': 0.0
+            'elevation': 0.0,
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
         },
         'geometry': {
             'type': 'Point',
