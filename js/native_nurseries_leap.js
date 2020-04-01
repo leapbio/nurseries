@@ -83,8 +83,6 @@ var geoJson = ({
         }
     },
      {
-    'type': 'FeatureCollection',
-    'features': [{
         'type': 'Feature',
         'properties': {
             'Timestamp': '4/1/2020 12:18',
