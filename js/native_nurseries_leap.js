@@ -82,6 +82,40 @@ var geoJson = ({
             ]
         }
     },
+     {
+    'type': 'FeatureCollection',
+    'features': [{
+        'type': 'Feature',
+        'properties': {
+            'Timestamp': '4/1/2020 12:18',
+            'Nursery_Status': 'New Nursery',
+            'Nursery': 'Natives in Harmony',
+            'State_1': 'OH',
+            'Type': 'Wholesale, Retail, Open to the Public, Appointment Only',
+            'Native _%': 100,
+            'Native': 'Yes',
+            'Keep': 'Plants, Herbaceous, Ferns, Woody, Shrubs, Containerized Trees',
+            'Grow_Type': 'Grown from known seed locations (can track provenance), Germinated from seed, Grown by clonal dividing',
+            'Specialty': 'Wetland Restoration, Native Plants',
+            'Address': '4652 Township Road 179 Marengo',
+            'Owner_Con': "Gale Martin",
+            'Contact_Number': '419-688-9800',
+            'Contact_Email': 'gale@nativesinharmony.com',
+            'Preferred_Contact': 'Phone, Email',
+            'Notes': 'forbs (specializing in state listed species and less common natives), Do not provide mail order plants. Plant list available on website for reference.',
+            'Questions and comments': '',
+            'Zip': 43334,
+            'Facebook': 'https://www.nativesinharmony.com/default.html',
+            'point': (40.441237, -82.792684, 0.0),
+            'Latitude': 40.441237,
+            'Longitude': -82.792684,
+            'elevation': 0.0
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [-82.792684, 40.441237]
+        }
+    },
                  
     {
         'type': 'Feature',
