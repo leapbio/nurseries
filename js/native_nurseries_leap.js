@@ -156,8 +156,38 @@ var geoJson = ({
             'coordinates': [-84.382836, 42.608449]
         }
     },
-
-
+{
+    'type': 'Feature',
+    'properties': {
+        'Timestamp': '3/24/2020 11:41:46',
+        'Nursery_Status': 'Existing Nursery',
+        'Nursery': "Powell's Native Wildflowers  ",
+        'State_1': 'OH',
+        'Type': 'Online, Appointment Only, Small/Home Business',
+        'Native _%': 100,
+        'Native': 'Yes',
+        'Keep': 'Seed, Plants, Herbaceous, Woody',
+        'Grow_Type': 'Germinated from seed, Grown by clonal dividing',
+        'Specialty': 'Native Plants',
+        'Address': '7310 Glorine St NW',
+        'Owner_Con': "",
+        'Contact_Number': 'Tim Powell ',
+        'Contact_Email': '2342145763',
+        'Preferred_Contact': 'powellsnativewildflowers@gmail.com',
+        'Notes': 'Email',
+        'Questions and comments': "",
+        'Zip': 44720,
+        'Facebook': 'www.powellsnativewildflowers.com',
+        'point': (40.88135444444444, -81.484725, 0.0),
+        'Latitude': 40.88135444444444,
+        'Longitude': -81.484725,
+        'elevation': 0.0
+    },
+    'geometry': {
+        'type': 'Point',
+        'coordinates': [-81.484725, 40.88135444444444]
+    }
+},
     {
         'type': 'Feature',
         'properties': {
