@@ -101,12 +101,11 @@ var geoJson = ({
         'Contact_Email': 'ekapraly @gmail.com',
         'Preferred_Contact': 'Email',
         'Notes': "",
-        'Phone': '740 - 815 - 3230'
+        'Phone': '740 - 815 - 3230',
         'Email':'ekapraly @gmail.com',
         'Questions and comments': " ", 
         'Zip' : 43015, 
         'Facebook' : 'https//www.riversidenativetrees.com',
-        'location' ': Location(2295, River Road, Radnor, Radnor Township, Delaware County, Ohio, 43015, United States of America, (40.356131799287574, -83.1801664369442, 0.0)), '
         'point' : (40.356131799287574, -83.1801664369442, 0.0),
         'Latitude' : 40.356131799287574,
         'Longitude' : -83.1801664369442,
