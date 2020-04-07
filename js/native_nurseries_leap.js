@@ -82,6 +82,45 @@ var geoJson = ({
             ]
         }
     },
+      {
+    'type': 'Feature',
+    'properties': {
+        'Timestamp': '4/3/2020 9:35:14',
+        'Nursery_Status': 'Existing Nursery',
+        'Nursery': 'Riverside Native Trees',
+        'State_1': 'OH',
+        'Type': 'Retail, Online, Appointment Only',
+        'Native _%': 90,
+        'Native': 'Yes',
+        'Keep': 'Woody, Shrubs, Containerized Trees',
+        'Grow_Type': 'Grown from known seed locations (can track provenance), Germinated from seed',
+        'Specialty': 'Organic, Wetland Restoration, Native Plants' , 
+        'Address' : '2295 River Road Delaware, OH',
+        'Owner_Con' : 'Ed Kapraly',
+        'Contact_Number': '740 - 815 - 3230',
+        'Contact_Email': 'ekapraly @gmail.com',
+        'Preferred_Contact': 'Email',
+        'Notes': "",
+        'Phone': '740 - 815 - 3230'
+        'Email':'ekapraly @gmail.com',
+        'Questions and comments': " ", 
+        'Zip' : 43015, 
+        'Facebook' : 'https//www.riversidenativetrees.com',
+        'location' ': Location(2295, River Road, Radnor, Radnor Township, Delaware County, Ohio, 43015, United States of America, (40.356131799287574, -83.1801664369442, 0.0)), '
+        'point' : (40.356131799287574, -83.1801664369442, 0.0),
+        'Latitude' : 40.356131799287574,
+        'Longitude' : -83.1801664369442,
+        'elevation' : 0.0,
+        "marker-color": "#254503",
+        "marker-size": "small",
+        "marker-symbol": "garden"
+    },
+        'geometry': {
+        'type': 'Point',
+        'coordinates': [-83.1801664369442, 40.356131799287574]         
+    }
+},           
+                 
      {
         'type': 'Feature',
         'properties': {
