@@ -7847,4 +7847,4 @@ var polyline_options = {
 // Defining a polygon here instead of a polyline will connect the
 // endpoints and fill the path.
 // http://leafletjs.com/reference.html#polygon
-var polyline = L.polyline(L.latLng(line_points), polyline_options).addTo(map);
+var polyline = L.polyline(L.coordsToLatLng(line_points), polyline_options).addTo(map);
