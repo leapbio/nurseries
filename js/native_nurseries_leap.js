@@ -108,7 +108,10 @@ var geoJson = ({
 			'point': (41.37886457781648, -81.28085336106552, 0.0),
 			'Latitude': 41.37886457781648,
 			'Longitude': -81.28085336106552,
-			'elevation': 0.0
+			'elevation': 0.0,
+			"marker-color": "#254503",
+            		"marker-size": "small",
+            		"marker-symbol": "garden"
 		},
 		'geometry': {
 			'type': 'Point',
