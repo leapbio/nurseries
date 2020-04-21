@@ -82,6 +82,39 @@ var geoJson = ({
             ]
         }
     },
+                 
+    {
+		'type': 'Feature',
+		'properties': {
+			'Timestamp': '1/23/2020 20:06:48',
+			'Nursery_Status': 'New Nursery',
+			'Nursery': 'Erie Shore Gardens',
+			'State_1': 'OH',
+			'Type': 'Retail, Online, Small/Home Business',
+			'Native _%': 99,
+			'Native': 'Yes',
+			'Keep': 'Plants, Herbaceous, Ferns, Woody, Shrubs, Containerized Trees',
+			'Grow_Type': 'Germinated from seed, Grown by clonal dividing',
+			'Specialty': 'Organic, Native Plants',
+			'Address': '10246 Widgeon Drive',
+			'Owner_Con': 44023,
+			'Contact_Number': 'Amy Coursen and Chris Chaney',
+			'Contact_Email': '440-552-5385',
+			'Preferred_Contact': 'erieshoregardens@gmail.com',
+			'Notes': 'Phone, Email',
+			'Questions and comments': "",
+			'Zip': "",
+			'Facebook': "https://www.erieshoregardens.com",
+			'point': (41.37886457781648, -81.28085336106552, 0.0),
+			'Latitude': 41.37886457781648,
+			'Longitude': -81.28085336106552,
+			'elevation': 0.0
+		},
+		'geometry': {
+			'type': 'Point',
+			'coordinates': [-81.28085336106552, 41.37886457781648]
+		}
+	},             
       {
     'type': 'Feature',
     'properties': {
