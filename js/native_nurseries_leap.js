@@ -6,7 +6,7 @@ var southWest = L.latLng(33.064,
         -69.697),
     bounds = L.latLngBounds(southWest, northEast);
 
-var map = L.mapbox.map('map', 'mapbox.satellite', {
+var map = L.mapbox.map('map', 'mapbox://styles/cleveland-metroparks/ckj24ydzd2ggu19t7s7lbkne2', {
     maxBounds: bounds,
     maxZoom: 16,
     minZoom: 5
