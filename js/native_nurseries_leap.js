@@ -1512,7 +1512,65 @@ var geoJson = ({
                 41.268499
             ]
         }
+    },	 
+	{
+        "type": "Feature",
+        "properties": {
+            "Nursery": "Plant It Native, LLC",
+            "Contact_Email": "josh @plantitnativeohio.com",
+            "Contact_Number": "440-226-0480",
+            "State": "OH",
+            "Address": "2 Public Square, Willoughby, Ohio  44094",
+            "Street": "2 Public Square",
+            "City": "Willoughby Hills",
+            "State_1": "IN",
+            "Zip": 46788,
+            "Keep": "Nursery not open to the public. Plants can be purchased in person at the Willoughby Farmers Market or online with pickup at the market from May to October. Types: Plants, Herbaceous, Woody, Shrubs",
+            "Type": "Grown from known seed locations (can track provenance), Germinated from seed",
+            "Latitude": 41.64002413018519,
+            "Longitude": -81.40513334453202,
+            "Owner_Con": "Josh Myers",
+            "Sales_Con": "Josh Myers",
+            "General E": "josh@plantitnativeohio.com",
+            "Facebook": "www.plantitnativeohio.com",
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.40513334453202, 41.64002413018519]
+        }
     },
+	{
+        "type": "Feature",
+        "properties": {
+            "Nursery": "Hilltop Hollow Farm",
+            "Contact_Email": "hilltophollowfarm@gmail.com",
+            "Contact_Number": "814-424-3240",
+            "State": "PA",
+            "Address": "545 Thomas Hill Rd.",
+            "Street": "545 Thomas Hill Road",
+            "City": "Gum Stump, Bellefonte",
+            "State_1": "PA",
+            "Zip": 16823,
+            "Keep": "Plants, Herbaceous, Ferns, Woody, Shrubs, Bare Root, Containerized Trees",
+            "Type": "Germinated from seed, Grown by clonal dividing, Grown from starter plugs",
+            "Latitude": 40.97983785,
+            "Longitude": -77.82586218573906,
+            "Owner_Con": "Steve Dahm",
+            "Sales_Con": "Steve Dahm",
+            "General E": "hilltophollowfarm@gmail.com",
+            "Facebook": "www.hilltophollowfarm.com",
+            "marker-color": "#254503",
+            "marker-size": "small",
+            "marker-symbol": "garden"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.82586218573906, 40.97983785]
+        }
+    },	 
     {
         "type": "Feature",
         "properties": {
