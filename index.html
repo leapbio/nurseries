@@ -9,6 +9,8 @@
 <link href='http://fonts.googleapis.com/css?family=Source+Serif+Pro:600' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
 <link rel="shortcut icon" href="favicon.png" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css" rel="stylesheet" />
 </head>
 
 
@@ -102,6 +104,25 @@
     <!-- jQuery Version 1.11.0 -->
 <script src="js/jquery-1.11.0.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<script>
+		// add markers to map
+geoJson.features.forEach(function(marker) {
+
+  // create a HTML element for each feature
+  var el = document.createElement('div');
+  el.className = 'marker';
+
+  // make a marker for each feature and add to the map
+  new mapboxgl.Marker(el)
+    .setLngLat(marker.geometry.coordinates)
+    .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
+    .setHTML('<h2>' + marker.properties.Nursery + '</h2>' + '<p>' + '<span>Address: </span>' + marker.properties.Address + '</p>' + '<p>' + (marker.properties.Contact_Number !== 'mull' ? '<span>Phone: </span>' + marker.properties.Contact_Number : "") + '</p>' + '<p>' + (marker.properties.Facebook !== 'mull' ? '<span>Website: </span>' + '<a href="' + 'http://' + marker.properties.Facebook + '" target="_blank">' + marker.properties.Facebook : "") + '</a>' + '</p>' + '<p>' + (marker.properties.Keep !== 'mull' ? '<span>Plants: </span>' + marker.properties.Keep : "") + '</p>' + '<p>' + (marker.properties.Type !== 'mull' ? '<span>Other: </span>' + marker.properties.Type : "") + '</p>'))
+    .addTo(map);
+})
+	
+	
+</script>
 
 <script src="js/native_nurseries_leap.js"></script>
 <script src="js/slick_slider.js"></script>
