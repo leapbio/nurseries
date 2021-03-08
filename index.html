@@ -124,7 +124,7 @@ geoJson.features.forEach(function(marker) {
     .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
     .setHTML('<h2>' + marker.properties.Nursery + '</h2>' + '<p>' + '<span>Address: </span>' + marker.properties.Address + '</p>' + '<p>' + (marker.properties.Contact_Number !== 'mull' ? '<span>Phone: </span>' + marker.properties.Contact_Number : "") + '</p>' + '<p>' + (marker.properties.Facebook !== 'mull' ? '<span>Website: </span>' + '<a href="' + 'http://' + marker.properties.Facebook + '" target="_blank">' + marker.properties.Facebook : "") + '</a>' + '</p>' + '<p>' + (marker.properties.Keep !== 'mull' ? '<span>Plants: </span>' + marker.properties.Keep : "") + '</p>' + '<p>' + (marker.properties.Type !== 'mull' ? '<span>Other: </span>' + marker.properties.Type : "") + '</p>'))
     .addTo(map);
-})
+});
 	
 	map.on('load', function () {
 map.addSource('route', {
