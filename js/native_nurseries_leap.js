@@ -1671,11 +1671,6 @@ var geoJson = ({
 
 
 
-var markers = L.mapbox.featureLayer()
-    .setGeoJSON(geoJson)
-    .addTo(map);
-
-
 
 // Note that calling `.eachLayer` here depends on setting GeoJSON _directly_
 // above. If you're loading GeoJSON asynchronously, like from CSV or from a file,
