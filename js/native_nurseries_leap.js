@@ -1,4 +1,11 @@
-L.mapbox.accessToken = 'pk.eyJ1IjoiY21pbnZhc2l2ZXBsYW50cyIsImEiOiJmdGpSeF9jIn0.G_WIbBv2lsun6xHHXgIH8g';
+mapboxgl.accessToken = 'pk.eyJ1IjoiY2xldmVsYW5kLW1ldHJvcGFya3MiLCJhIjoiY2trb2k1MTZiMmRwaTJ1cTk2NzhkNTYzZSJ9.XTXVoeoPsn0SpWaXRAEZCQ';
+    var map = new mapboxgl.Map({
+        container: 'map', // container id
+        style: 'mapbox://styles/mapbox/streets-v11', // style URL
+        center: [-81.71692384158342, 41.44644031077142], // starting position
+        zoom: 9 // starting zoom
+    });
+
 
 var southWest = L.latLng(33.064,
     -99.053),
@@ -6,15 +13,7 @@ var southWest = L.latLng(33.064,
         -69.697),
     bounds = L.latLngBounds(southWest, northEast);
 
-var map = L.mapbox.map('map', 'mapbox.satellite', {
-    maxBounds: bounds,
-    maxZoom: 16,
-    minZoom: 5
-}).setView([
-    40,
-    -81
-],
-    5);
+
 
 var geoJson = ({
     "type": "FeatureCollection",
