@@ -1712,9 +1712,15 @@ $('.menu-ui a').on('click', function () {
 
 
 // Create array of lat,lon points.
-var line_points = 
-[
-    [-81.288844293958007, 40.764325114013232],
+map.on('load', function () {
+map.addSource('route', {
+'type': 'geojson',
+'data': {
+'type': 'Feature',
+'properties': {},
+'geometry': {
+'type': 'LineString',
+'coordinates': [[-81.288844293958007, 40.764325114013232],
     [-81.289624915076175, 40.764416176807238],
     [-81.290405538197561, 40.764507234813145],
     [-81.290527341021217, 40.763923678452898],
@@ -7925,17 +7931,24 @@ var line_points =
     [-81.311943501031507, 40.809723453560991],
     [-81.30981181734866, 40.806923529746349],
     [-81.309811719508147, 40.806923486163775],
-    [-81.311943501031507, 40.809723453560991]
-];
-
-// Define polyline options
-// http://leafletjs.com/reference.html#polyline
-var polyline_options = {
-    color: '#B66B27',
-    opacity: 0.9,
-    fillColor: '#D5802B',
-    fillOpacity: 0.6
-};
+    [-81.311943501031507, 40.809723453560991]]
+}
+}
+});
+map.addLayer({
+'id': 'route',
+'type': 'line',
+'source': 'route',
+'layout': {
+'line-join': 'round',
+'line-cap': 'round'
+},
+'paint': {
+'line-color': '#db672e',
+'line-width': 6
+}
+});
+});
 
 // Defining a polygon here instead of a polyline will connect the
 // endpoints and fill the path.
