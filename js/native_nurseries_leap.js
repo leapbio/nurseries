@@ -3,7 +3,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiY2xldmVsYW5kLW1ldHJvcGFya3MiLCJhIjoiY2trb2k1M
         container: 'map', // container id
         style: 'mapbox://styles/mapbox/streets-v11', // style URL
         center: [-81.71692384158342, 41.44644031077142], // starting position
-        zoom: 14 // starting zoom
+        zoom: 6 // starting zoom
     });
 
 
